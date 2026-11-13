@@ -1,0 +1,592 @@
+# Special layout features, from "Special Layout Features found in Old and New Testaments" (August 6, 2002; revised April 19, 2004).
+# Columns (tab-separated): category, book, references, publications, English description, Spanish description, versification (eng if empty), French description.
+# References: "C:V-V,V; C:V--C:V" as in the paper; a group without ":" is whole chapters ("9-10"); "*" is the whole book.
+# A letter after a verse (2b) is kept for display only: the whole verse is examined.
+# Publications: BFC CEV GNB NIV NVI NLT TEV.
+creation	GEN	1:3--2:4	NIV,CEV	the days of creation, each day marked	los días de la creación, cada día marcado		les jours de la création, chaque jour marqué
+decalogue	EXO	20:2-17	NIV,NVI,NLT	the Ten Commandments	los Diez Mandamientos		les dix commandements
+decalogue	DEU	5:6-21	NIV,NVI,NLT	the Ten Commandments	los Diez Mandamientos		les dix commandements
+genealogy	GEN	10:2-18,22-29; 35:23-26; 36:10-41; 46:8b-14,16-17,19-21,23-24	NIV	genealogy	genealogía		généalogie
+genealogy	GEN	10:2-4,6-7,13-18,22-30; 35:23-26; 36:15-17,18,20-30,32-43; 46:8-14,16-18,19-21,23-24	NVI	genealogy	genealogía		généalogie
+genealogy	GEN	36:10-14	NVI	genealogy, primary and secondary entries	genealogía, con entradas principales y secundarias		généalogie, avec entrées principales et secondaires
+genealogy	GEN	4:18; 5:3-32; 10:2-31; 11:10-26; 35:23-26; 36:10-14,15b-19,22-30,32-39; 46:8b-25	NLT	genealogy	genealogía		généalogie
+genealogy	GEN	46:12; 46:17	NIV	genealogy with a third level (Hezron and Hamul; Heber and Malkiel)	genealogía con un tercer nivel (Hezrón y Hamul; Heber y Malquiel)		généalogie avec un troisième niveau (Hetsron et Hamoul ; Héber et Malkiel)
+genealogy	EXO	6:14-25	NLT	genealogy	genealogía		généalogie
+genealogy	NUM	3:17-20; 26:5-7,12-51; 34:19b-28	NIV	genealogy	genealogía		généalogie
+genealogy	NUM	3:17-20	NLT	genealogy	genealogía		généalogie
+genealogy	RUT	4:18b-22	NIV,NVI,NLT	genealogy	genealogía		généalogie
+genealogy	2SA	3:2-5; 23:24b-39a	NVI	genealogy	genealogía		généalogie
+genealogy	1CH	1:4-42,43-54; 2:1--4:8; 4:11-26; 6:1-30,50-53; 7:30-39; 8:1-27,29-39; 9:35-44; 23:7b-11,12b-23; 24:20b-30; 25:2-5; 26:1b-11	NIV	genealogy	genealogía		généalogie
+genealogy	1CH	1:4b-42,43b--4:8; 4:13-43; 5:4-17; 6:1-29,33-44,50-53; 7:1-39; 8:1-40; 9:4-21,35-44; 23:7-23; 24:20b-30; 25:2-5; 26:1b-5,6-11	NVI	genealogy	genealogía		généalogie
+genealogy	1CH	1:1-42,43b--3:4a; 3:10-37; 6:1-29,33-44,50-53; 7:1-12,30-39; 8:1-40; 9:4-21,35-44; 23:7-23; 24:20b-30; 25:2-5	NLT	genealogy	genealogía		généalogie
+genealogy	1CH	4:34-37	NIV	genealogy, every entry secondary	genealogía, todas las entradas secundarias		généalogie, toutes les entrées secondaires
+genealogy	1CH	5:3-17	NLT	genealogy; vv. 8b-10 are comments	genealogía; los vv. 8b-10 son comentarios		généalogie ; les v. 8b-10 sont des commentaires
+genealogy	1CH	5:3b-16	NIV	genealogy; v. 10 is a comment	genealogía; el v. 10 es un comentario		généalogie ; le v. 10 est un commentaire
+genealogy	1CH	7:1-19	NIV	genealogy; vv. 14b-16 are a comment	genealogía; los vv. 14b-16 son un comentario		généalogie ; les v. 14b-16 sont un commentaire
+genealogy	1CH	7:14-19	NLT	genealogy; v. 15 is a comment	genealogía; el v. 15 es un comentario		généalogie ; le v. 15 est un commentaire
+genealogy	1CH	7:20-27	NIV,NLT	genealogy; vv. 21b-24 are a comment	genealogía; los vv. 21b-24 son un comentario		généalogie ; les v. 21b-24 sont un commentaire
+genealogy	1CH	26:1b-11	NLT	genealogy; vv. 6-8 are comments	genealogía; los vv. 6-8 son comentarios		généalogie ; les v. 6-8 sont des commentaires
+genealogy	1CH	26:24-32	NLT	genealogy; vv. 26-28 and 31-32 are comments	genealogía; los vv. 26-28 y 31-32 son comentarios		généalogie ; les v. 26-28 et 31-32 sont des commentaires
+genealogy	EZR	2:43b-54,55b-57	NIV	genealogy	genealogía		généalogie
+genealogy	EZR	2:43-57	NVI	genealogy	genealogía		généalogie
+genealogy	MAT	1:2-16	NIV,NVI,NLT	genealogy of Jesus	genealogía de Jesús		généalogie de Jésus
+genealogy	LUK	3:23-37	NIV,NVI,NLT,GNB	genealogy of Jesus	genealogía de Jesús		généalogie de Jésus
+list	NUM	1:5b-15	NIV,NVI	list of the men who would help Moses	lista de los hombres que ayudarían a Moisés		liste des hommes qui devaient aider Moïse
+list	NUM	13:4b-15	NIV,NVI	list of the explorers of the land	lista de los exploradores de la tierra		liste des explorateurs du pays
+list	2SA	3:2b-5	NIV	list of David's sons	lista de los hijos de David		liste des fils de David
+list	2SA	23:24-39	NIV,NLT,GNB,TEV,CEV	list of "the Thirty"	lista de "los Treinta"		liste des « Trente »
+list	1KI	4:2b-6	NIV,NVI,NLT,GNB,TEV,CEV	list of Solomon's chief officials	lista de los altos funcionarios de Salomón		liste des hauts fonctionnaires de Salomon
+list	1KI	4:8b-19	NIV,NVI,NLT,GNB,TEV	list of the district governors	lista de los gobernadores de distrito		liste des gouverneurs de district
+list	1CH	12:9-13	NIV,NLT	list of the Gadite warriors	lista de los guerreros de Gad		liste des guerriers de Gad
+list	1CH	24:7-18	NIV,NVI,NLT	list of priests	lista de sacerdotes		liste de prêtres
+list	1CH	27:16-22	NIV,NVI	list of the officers over the tribes	lista de los jefes de las tribus		liste des chefs des tribus
+list	EZR	2:43b-54	GNB,TEV	list of the clans of temple workmen, in sets of three	lista de los clanes de servidores del templo, de tres en tres		liste des clans de serviteurs du temple, par groupes de trois
+list	EZR	2:55b-57	GNB,TEV	list of the clans of Solomon's servants	lista de los clanes de los siervos de Salomón		liste des clans des serviteurs de Salomon
+list	NEH	7:46b-56	GNB,TEV	list of the clans of temple workmen, in sets of three	lista de los clanes de servidores del templo, de tres en tres		liste des clans de serviteurs du temple, par groupes de trois
+list	NEH	7:57b-59	GNB,TEV	list of the clans of Solomon's servants	lista de los clanes de los siervos de Salomón		liste des clans des serviteurs de Salomon
+list	EZK	48:1-7	GNB,TEV	list of the tribal lands	lista de las tierras de las tribus		liste des territoires des tribus
+list	EZK	48:23-27	GNB,TEV	list of the tribal lands	lista de las tierras de las tribus		liste des territoires des tribus
+list	ACT	1:13b-14	NLT	list of the eleven apostles	lista de los once apóstoles		liste des onze apôtres
+list	1CO	12:28b	NLT	list of the "members" of the body of Christ	lista de los "miembros" del cuerpo de Cristo		liste des « membres » du corps du Christ
+list	NUM	1:20-46	CEV	numbered list of the warriors of each tribe	lista numerada de los guerreros de cada tribu		liste numérotée des guerriers de chaque tribu
+list	1CH	24:7b-18	GNB	numbered list of the "courses" of priests	lista numerada de los turnos de sacerdotes		liste numérotée des « classes » de prêtres
+list	1CH	25:9b-31	GNB	numbered list of musicians	lista numerada de músicos		liste numérotée de musiciens
+list	GEN	36:31-39	GNB,TEV	list of the kings of Edom	lista de los reyes de Edom		liste des rois d'Édom
+list	EXO	31:7-11	NIV	list of the items to be made	lista de los objetos que había que hacer		liste des objets à fabriquer
+list	NUM	1:20-42	NIV,NVI	list of the warriors of each tribe	lista de los guerreros de cada tribu		liste des guerriers de chaque tribu
+list	NUM	7:12-83	NIV,CEV	list of the leaders and their offerings	lista de los jefes y sus ofrendas		liste des chefs et de leurs offrandes
+list	NUM	26:5-51	NLT	list of descendants	lista de descendientes		liste de descendants
+list	NUM	26:57-61	NIV,NLT	list of the descendants of Levi	lista de los descendientes de Leví		liste des descendants de Lévi
+list	NUM	31:36b-40	NIV,NVI	list of the plunder	lista del botín		liste du butin
+list	DEU	28:3-6	NLT	the blessings	las bendiciones		les bénédictions
+list	DEU	28:16-19	NLT	the curses	las maldiciones		les malédictions
+list	JOS	12:9-24	NIV,NVI,NLT	list of the conquered kings	lista de los reyes vencidos		liste des rois vaincus
+list	1KI	7:41-45	NIV,NVI,NLT,GNB,TEV	list of the items Huram made	lista de los objetos que hizo Hiram		liste des objets que fit Hiram
+list	1KI	7:48b-50	NIV,NVI,NLT	list of the items Solomon made	lista de los objetos que hizo Salomón		liste des objets que fit Salomon
+list	1CH	1:38b-42	GNB	list of the sons of Seir	lista de los hijos de Seír		liste des fils de Séir
+list	1CH	1:43b-50	GNB,TEV	list of the kings of Edom	lista de los reyes de Edom		liste des rois d'Édom
+list	1CH	3:1b-3	GNB,TEV	list of David's sons	lista de los hijos de David		liste des fils de David
+list	1CH	4:34b-38a	GNB,TEV	list of the heads of clans	lista de los jefes de clanes		liste des chefs de clans
+list	1CH	9:7b-8	GNB,TEV	list of the Benjaminites living in Jerusalem	lista de los benjamitas que vivían en Jerusalén		liste des Benjaminites qui habitaient Jérusalem
+list	1CH	9:10b-12	GNB,TEV	list of the priests living in Jerusalem	lista de los sacerdotes que vivían en Jerusalén		liste des prêtres qui habitaient Jérusalem
+list	1CH	9:14b-16	GNB,TEV	list of the Levites living in Jerusalem	lista de los levitas que vivían en Jerusalén		liste des Lévites qui habitaient Jérusalem
+list	1CH	11:26b-47	NIV,NLT,GNB,TEV	list of "the Thirty"	lista de "los Treinta"		liste des « Trente »
+list	1CH	11:26-47	NVI	list of "the Thirty"	lista de "los Treinta"		liste des « Trente »
+list	1CH	12:3b-7	NLT,GNB,TEV	list of warriors	lista de guerreros		liste de guerriers
+list	1CH	12:2b-7	NVI	list of warriors	lista de guerreros		liste de guerriers
+list	1CH	12:24-37	NIV,NVI,NLT,GNB,TEV	list of David's warriors	lista de los guerreros de David		liste des guerriers de David
+list	1CH	15:5-10	NIV,NVI	list of the descendants of Aaron and Levi	lista de los descendientes de Aarón y Leví		liste des descendants d'Aaron et de Lévi
+list	1CH	24:20b-26	CEV	list of Levites	lista de levitas		liste de Lévites
+list	1CH	25:9-31	NIV,NVI	list of musicians, with the count of each	lista de músicos, con el número de cada grupo		liste de musiciens, avec le nombre de chaque groupe
+list	1CH	26:25-32	NVI	list of officials	lista de funcionarios		liste de fonctionnaires
+list	1CH	27:2-15	NIV,NVI,NLT,GNB,TEV	list of the army commanders	lista de los jefes del ejército		liste des chefs de l'armée
+list	1CH	27:25-31	NLT,GNB,TEV	list of the overseers of David's property	lista de los encargados de los bienes de David		liste des intendants des biens de David
+list	2CH	4:12-16	NIV,NVI,NLT,GNB,TEV,BFC	list of the items Huram made	lista de los objetos que hizo Hiram		liste des objets que fit Hiram
+list	2CH	4:19b-22	NIV,NVI,NLT,BFC	list of the items Solomon made	lista de los objetos que hizo Salomón		liste des objets que fit Salomon
+list	2CH	17:14b-18	NIV,NVI,NLT	list of Jehoshaphat's warriors	lista de los guerreros de Josafat		liste des guerriers de Josaphat
+list	2CH	29:12-14	NIV,NVI,NLT,GNB,TEV	list of Levites	lista de levitas		liste de Lévites
+list	EZR	1:9b-10	NIV,NVI	list of the temple articles	lista de los utensilios del templo		liste des ustensiles du temple
+list	EZR	2:3-35	NIV	list of the returnees, with counts	lista de los que regresaron, con números		liste de ceux qui revinrent d'exil, avec les nombres
+list	EZR	2:3-39	BFC	list of the returnees, with counts	lista de los que regresaron, con números		liste de ceux qui revinrent d'exil, avec les nombres
+list	EZR	2:3-42	NVI	list of the returnees, with counts	lista de los que regresaron, con números		liste de ceux qui revinrent d'exil, avec les nombres
+list	EZR	2:3b-30	GNB,TEV	list of the returnees by clan, with counts	lista de los que regresaron por clanes, con números		liste de ceux qui revinrent d'exil par clan, avec les nombres
+list	EZR	2:36b-39	NIV,GNB,TEV	list of the returnees by priestly clan, with counts	lista de los que regresaron por clanes sacerdotales, con números		liste de ceux qui revinrent d'exil par clan de prêtres, avec les nombres
+list	EZR	2:40b-42	GNB,TEV	list of the returnees by Levite clan, with counts	lista de los que regresaron por clanes levitas, con números		liste de ceux qui revinrent d'exil par clan de Lévites, avec les nombres
+list	EZR	2:40b; 2:41b; 2:42b	NIV	list of the returnees, with counts	lista de los que regresaron, con números		liste de ceux qui revinrent d'exil, avec les nombres
+list	EZR	2:41-42	BFC	list of the returnees	lista de los que regresaron		liste de ceux qui revinrent d'exil
+list	EZR	2:43-58	NLT	list of the returnees	lista de los que regresaron		liste de ceux qui revinrent d'exil
+list	EZR	2:58; 2:60	NIV,NVI	list of the returnees, with counts	lista de los que regresaron, con números		liste de ceux qui revinrent d'exil, avec les nombres
+list	EZR	2:61-67	NVI	list of the returnees	lista de los que regresaron		liste de ceux qui revinrent d'exil
+list	EZR	2:64b-67	GNB,TEV	list of the returnees and their animals	lista de los que regresaron y de sus animales		liste de ceux qui revinrent d'exil et de leurs animaux
+list	EZR	8:2-14	NIV,NVI,NLT,GNB,TEV,CEV	list of the returnees by clan, with counts	lista de los que regresaron por clanes, con números		liste de ceux qui revinrent d'exil par clan, avec les nombres
+list	EZR	8:26b-27	NLT,GNB,TEV	list of valuable items	lista de objetos de valor		liste d'objets de valeur
+list	EZR	10:18-43	NIV,NVI,NLT,GNB,TEV	list of the men who had married foreign women	lista de los hombres que se habían casado con mujeres extranjeras		liste des hommes qui avaient épousé des femmes étrangères
+list	NEH	7:7b-73	NIV,NVI	list of the returnees, with counts and comments	lista de los que regresaron, con números y comentarios		liste de ceux qui revinrent d'exil, avec les nombres et des commentaires
+list	NEH	7:8-45	BFC	list of the returnees, with counts	lista de los que regresaron, con números		liste de ceux qui revinrent d'exil, avec les nombres
+list	NEH	7:8b-25	GNB,TEV	list of the returnees by clan, with counts	lista de los que regresaron por clanes, con números		liste de ceux qui revinrent d'exil par clan, avec les nombres
+list	NEH	7:26b-38	GNB,TEV	list of the returnees by town, with counts	lista de los que regresaron por pueblos, con números		liste de ceux qui revinrent d'exil par ville, avec les nombres
+list	NEH	7:39b-42	GNB,TEV	list of the returning priestly clans	lista de los clanes sacerdotales que regresaron		liste des clans de prêtres qui revinrent
+list	NEH	7:43b-45	GNB,TEV	list of the returning Levites	lista de los levitas que regresaron		liste des Lévites qui revinrent
+list	NEH	7:46-59	NLT	list of the returnees	lista de los que regresaron		liste de ceux qui revinrent d'exil
+list	NEH	7:66-69	GNB,TEV	list of the returnees and their animals	lista de los que regresaron y de sus animales		liste de ceux qui revinrent d'exil et de leurs animaux
+list	NEH	10:1b-27	NIV,NVI,NLT,GNB,TEV	list of those who sealed (signed) the covenant	lista de los que sellaron (firmaron) el pacto		liste de ceux qui scellèrent (signèrent) l'alliance
+list	NEH	11:4-19	NIV,NVI,NLT,GNB,TEV	list of the leaders who settled in Jerusalem	lista de los jefes que se establecieron en Jerusalén		liste des chefs qui s'établirent à Jérusalem
+list	NEH	12:1b-7	NIV,NVI,NLT	list of priests and Levites, with a summary	lista de sacerdotes y levitas, con un resumen		liste de prêtres et de Lévites, avec un résumé
+list	NEH	12:2-7	TEV	list of the returning priests	lista de los sacerdotes que regresaron		liste des prêtres qui revinrent
+list	NEH	12:2-9	GNB	list of the returning priests and Levites	lista de los sacerdotes y levitas que regresaron		liste des prêtres et des Lévites qui revinrent
+list	NEH	12:12b-21	NIV,NVI,NLT	list of the heads of priestly families	lista de los jefes de familias sacerdotales		liste des chefs de familles de prêtres
+list	PRO	6:17-19	NLT,GNB,TEV	seven things the LORD hates	siete cosas que el SEÑOR aborrece		sept choses que le SEIGNEUR déteste
+list	PRO	30:16	NLT,GNB,TEV	four things that are never satisfied	cuatro cosas que nunca se sacian		quatre choses qui ne sont jamais rassasiées
+list	PRO	30:19	NLT,GNB,TEV	four mysterious things	cuatro cosas misteriosas		quatre choses mystérieuses
+list	PRO	30:22-23	NLT,GNB,TEV	four intolerable things	cuatro cosas insoportables		quatre choses insupportables
+list	PRO	30:25-28	NLT,GNB,TEV	four small, wise creatures	cuatro animales pequeños y sabios		quatre petits animaux sages
+list	PRO	30:30-31	NLT,GNB,TEV	four stately things	cuatro seres de porte majestuoso		quatre êtres à l'allure majestueuse
+list	ECC	3:1-8	NIV	list of "times"	lista de "tiempos"		liste de « temps »
+list	JER	25:19b-26	GNB,TEV	list of those who had to drink the cup	lista de los que tuvieron que beber la copa		liste de ceux qui durent boire la coupe
+list	JER	52:28b-30	NIV,NVI	list of the people taken into captivity	lista de los llevados al cautiverio		liste des gens emmenés en captivité
+list	EZK	47:15b-20	NIV,NLT	list of the boundaries of the land	lista de las fronteras de la tierra		liste des frontières du pays
+list	DAN	1:6b	NLT	the Hebrew and Babylonian names of the four young men	los nombres hebreos y babilonios de los cuatro jóvenes		les noms hébreux et babyloniens des quatre jeunes gens
+list	DAN	5:26b-28	NIV,NVI,NLT	list of words, each with its meaning	lista de palabras, cada una con su significado		liste de mots, chacun avec sa signification
+list	MAT	10:2-4	NLT	list of the twelve apostles	lista de los doce apóstoles		liste des douze apôtres
+list	MRK	3:16b-19	NLT	list of the twelve apostles	lista de los doce apóstoles		liste des douze apôtres
+list	LUK	6:14-16	NLT	list of the twelve apostles	lista de los doce apóstoles		liste des douze apôtres
+list	ROM	16:3-16	NIV,NVI	list of the people greeted	lista de las personas saludadas		liste des personnes saluées
+list	REV	7:5-8	NIV,NVI,CEV	the number sealed from each tribe of Israel	el número de sellados de cada tribu de Israel		le nombre de marqués du sceau de chaque tribu d'Israël
+list	LEV	27:3-7	GNB,TEV	list of the redemption prices, with dashes	lista de los precios de rescate, con rayas		liste des prix de rachat, avec des tirets
+list	NUM	7:84b-88	GNB,TEV	list of the total offerings, with dashes	lista del total de las ofrendas, con rayas		liste du total des offrandes, avec des tirets
+list	NUM	1:4-15	CEV	list of the men who would help Moses	lista de los hombres que ayudarían a Moisés		liste des hommes qui devaient aider Moïse
+list	NUM	13:4-16	CEV	list of the leaders of the tribes	lista de los jefes de las tribus		liste des chefs des tribus
+list	NUM	34:19b-28	NIV,NVI,CEV	list of the tribal leaders	lista de los jefes de las tribus		liste des chefs de tribu
+list	DEU	27:15-26	NVI	the curses, with the people's response	las maldiciones, con la respuesta del pueblo		les malédictions, avec la réponse du peuple
+list	1CH	6:33b-47	NIV	list of musicians	lista de músicos		liste de musiciens
+list	1CH	9:4-21	NIV	list of those who returned to Jerusalem	lista de los que volvieron a Jerusalén		liste de ceux qui revinrent à Jérusalem
+list	NUM	1:20-43	BFC	list of the warriors of each tribe, with counts	lista de los guerreros de cada tribu, con números		liste des guerriers de chaque tribu, avec les nombres
+list	NUM	2:3-8; 2:10-15; 2:18-23; 2:25-31	BFC	list of the leaders of each tribe, with the number of warriors	lista de los jefes de cada tribu, con el número de guerreros		liste des chefs de chaque tribu, avec le nombre de guerriers
+list	NUM	4:34-49	BFC	list of the Levites by clan, with counts	lista de los levitas por clanes, con números		liste des Lévites par clan, avec les nombres
+table	NUM	1:5b-15	NLT,GNB,TEV,BFC	table of the leaders of the tribes	tabla de los jefes de las tribus		tableau des chefs des tribus
+table	NUM	1:20-46	GNB,TEV	table of the warriors of each tribe, with the total	tabla de los guerreros de cada tribu, con el total		tableau des guerriers de chaque tribu, avec le total
+table	NUM	1:21b-43	NLT	table of the warriors of each tribe	tabla de los guerreros de cada tribu		tableau des guerriers de chaque tribu
+table	NUM	2:3-9; 2:10-16; 2:18-24; 2:25-31	GNB,TEV	three-column table: tribe, leader and number of warriors, with totals	tabla de tres columnas: tribu, jefe y número de guerreros, con totales		tableau à trois colonnes : tribu, chef et nombre de guerriers, avec les totaux
+table	NUM	2:4b-8; 2:11b-15; 2:19b-23; 2:26b-30	NLT	three-column table: tribe, leader and number of warriors	tabla de tres columnas: tribu, jefe y número de guerreros		tableau à trois colonnes : tribu, chef et nombre de guerriers
+table	NUM	4:34-48	GNB,TEV	table of the Levites by clan, with the total	tabla de los levitas por clanes, con el total		tableau des Lévites par clan, avec le total
+table	NUM	7:12-83	GNB,TEV	three-column table of the offerings by day, tribe and leader	tabla de tres columnas de las ofrendas por día, tribu y jefe		tableau à trois colonnes des offrandes par jour, tribu et chef
+table	NUM	13:3-15	GNB,TEV	table of the leaders of the tribes	tabla de los jefes de las tribus		tableau des chefs des tribus
+table	NUM	13:4b-15	NLT	table of the leaders of the tribes	tabla de los jefes de las tribus		tableau des chefs des tribus
+table	NUM	34:19b-28	NLT,GNB,TEV	table of the leaders of the tribes	tabla de los jefes de las tribus		tableau des chefs des tribus
+table	1CH	24:7-18	BFC	two-column numbered table of the priests	tabla numerada de dos columnas de los sacerdotes		tableau numéroté à deux colonnes des prêtres
+table	1CH	25:9-31	BFC	one-column numbered table of the musicians	tabla numerada de una columna de los músicos		tableau numéroté à une colonne des musiciens
+table	1CH	27:16b-22	NLT,GNB,TEV	table of the leaders of the tribes	tabla de los jefes de las tribus		tableau des chefs des tribus
+table	EZR	1:9b-10	NLT,GNB,TEV	table of the temple articles	tabla de los utensilios del templo		tableau des ustensiles du temple
+table	EZR	2:3-35; 2:36b-39; 2:40b-42	NLT	table of the returnees	tabla de los que regresaron		tableau de ceux qui revinrent d'exil
+table	NEH	7:8-38; 7:39b-42; 7:43b-45	NLT	table of the returnees	tabla de los que regresaron		tableau de ceux qui revinrent d'exil
+table	NEH	7:70b-72	GNB,TEV	table of the gifts and the givers	tabla de las ofrendas y de quienes las dieron		tableau des dons et des donateurs
+table	NEH	12:12b-21	GNB,TEV	table of the priests and their clans	tabla de los sacerdotes y sus clanes		tableau des prêtres et de leurs clans
+table	REV	7:5-8	NLT	table of those who were sealed	tabla de los que fueron sellados		tableau de ceux qui furent marqués du sceau
+message	NUM	20:14b-17	NIV,NVI,NLT	message from Moses to the king of Edom	mensaje de Moisés al rey de Edom		message de Moïse au roi d'Édom
+message	NUM	20:18b; 20:19b; 20:20b	NIV,NVI	messages between Moses and the king of Edom	mensajes entre Moisés y el rey de Edom		messages entre Moïse et le roi d'Édom
+message	NUM	21:22	NIV,NVI,NLT	message to Sihon, king of the Amorites	mensaje a Sijón, rey de los amorreos		message à Sihon, roi des Amoréens
+message	NUM	22:5b-6	NIV,NVI,NLT	message from Balak to Balaam	mensaje de Balac a Balaam		message de Balak à Balaam
+message	NUM	22:16b-17	NIV,NVI,NLT	message to Balaam	mensaje a Balaam		message à Balaam
+message	DEU	26:5b-10	NVI	what is to be said when the firstfruits are offered	lo que se debe decir al ofrecer las primicias		ce qu'il faut dire en offrant les prémices
+message	DEU	26:13b-15	NVI	what is to be said at the third-year tithe	lo que se debe decir en el diezmo del tercer año		ce qu'il faut dire lors de la dîme de la troisième année
+message	DEU	27:15-26	NIV,NLT	the curses, with the people's response	las maldiciones, con la respuesta del pueblo		les malédictions, avec la réponse du peuple
+message	DEU	28:3-6	NIV	the blessings	las bendiciones		les bénédictions
+message	DEU	28:16-19	NIV	the curses	las maldiciones		les malédictions
+message	DEU	29:2b-29	NIV	Moses' review of the covenant	Moisés repasa el pacto		Moïse rappelle l'alliance
+message	JDG	11:15-27	NIV,NLT	message from Jephthah to the king of Ammon	mensaje de Jefté al rey de Amón		message de Jephté au roi d'Ammon
+message	RUT	4:11b-12	NVI	what the elders said to Boaz	lo que los ancianos dijeron a Booz		ce que les anciens dirent à Boaz
+message	1SA	2:27b-36	NVI	the prophecy against Eli	la profecía contra Elí		la prophétie contre Éli
+message	1SA	10:18b-19	NVI	Samuel's message from the LORD to Israel	el mensaje del SEÑOR por medio de Samuel a Israel		le message du SEIGNEUR à Israël par Samuel
+message	2SA	7:5-16	NIV,NVI,NLT	the LORD's message through Nathan	el mensaje del SEÑOR por medio de Natán		le message du SEIGNEUR par Nathan
+message	1KI	5:3-6	NIV,NVI,NLT	Solomon's message to Hiram	el mensaje de Salomón a Hiram		le message de Salomon à Hiram
+message	1KI	5:8b-9	NIV,NVI,NLT	Hiram's message to Solomon	el mensaje de Hiram a Salomón		le message d'Hiram à Salomon
+message	1KI	8:12b-13	NVI	Solomon's statement	las palabras de Salomón		les paroles de Salomon
+message	1KI	8:15b-21	NIV,NVI	Solomon's blessing	la bendición de Salomón		la bénédiction de Salomon
+message	1KI	9:3b-9	NIV,NVI	the LORD's answer to Solomon	la respuesta del SEÑOR a Salomón		la réponse du SEIGNEUR à Salomon
+message	1KI	15:19	NLT	message from Asa to Ben-Hadad	mensaje de Asa a Ben Adad		message d'Asa à Ben-Hadad
+message	1KI	21:9b-10	NIV,NVI	Jezebel's letter	la carta de Jezabel		la lettre de Jézabel
+message	2KI	10:2-3	NVI	Jehu's letter to Ahab's family	la carta de Jehú a la familia de Acab		la lettre de Jéhu à la famille d'Achab
+message	2KI	17:35b-39	NVI	the LORD's message to Israel	el mensaje del SEÑOR a Israel		le message du SEIGNEUR à Israël
+message	2KI	18:19b-25	NIV,NLT	the Assyrian commander's message to Hezekiah	el mensaje del comandante asirio a Ezequías		le message du commandant assyrien à Ézéchias
+message	2KI	19:10-13	NLT	Sennacherib's message to Hezekiah	el mensaje de Senaquerib a Ezequías		le message de Sanchérib à Ézéchias
+message	1CH	17:4-14	NIV,NVI,NLT	the LORD's message through Nathan	el mensaje del SEÑOR por medio de Natán		le message du SEIGNEUR par Nathan
+message	2CH	2:3b-10	NIV,NVI,NLT	Solomon's message to Hiram	el mensaje de Salomón a Hiram		le message de Salomon à Hiram
+message	2CH	2:11b-16	NIV,NVI,NLT	Hiram's message to Solomon	el mensaje de Hiram a Salomón		le message d'Hiram à Salomon
+message	2CH	6:1b-2	NVI	Solomon's statement	las palabras de Salomón		les paroles de Salomon
+message	2CH	6:4b-11	NIV,NVI	Solomon's blessing	la bendición de Salomón		la bénédiction de Salomon
+message	2CH	7:12b-22	NIV,NVI	the LORD's answer to Solomon	la respuesta del SEÑOR a Salomón		la réponse du SEIGNEUR à Salomon
+message	2CH	16:3	NLT	message from Asa to Ben-Hadad	mensaje de Asa a Ben Adad		message d'Asa à Ben-Hadad
+message	2CH	21:12b-15	NIV,NVI,NLT	Elijah's letter to Jehoram	la carta de Elías a Joram		la lettre d'Élie à Joram
+message	2CH	30:6b-9	NIV,NVI,NLT	Hezekiah's letter	la carta de Ezequías		la lettre d'Ézéchias
+message	2CH	32:10-15	NIV,NVI,NLT	Sennacherib's message to Hezekiah	el mensaje de Senaquerib a Ezequías		le message de Sanchérib à Ézéchias
+message	2CH	35:21b	NLT	Neco's message to Josiah	el mensaje de Necao a Josías		le message de Néco à Josias
+message	2CH	36:23b	NIV,NVI,NLT	the proclamation of Cyrus	el decreto de Ciro		le décret de Cyrus
+message	EZR	1:2b-4	NIV,NVI,NLT,GNB,TEV	the proclamation of Cyrus	el decreto de Ciro		le décret de Cyrus
+message	EZR	4:9-16	NIV,NVI,GNB,TEV	the letter to Artaxerxes	la carta a Artajerjes		la lettre à Artaxerxès
+message	EZR	4:11b-16	NLT	the letter to Artaxerxes	la carta a Artajerjes		la lettre à Artaxerxès
+message	EZR	4:17b-22	NIV,NVI,NLT,GNB,TEV	Artaxerxes' letter to Rehum and Shimshai	la carta de Artajerjes a Rejún y Simsay		la lettre d'Artaxerxès à Rehoum et Shimshaï
+message	EZR	5:7b-17	NIV,NVI,NLT,GNB,TEV	the letter to Darius	la carta a Darío		la lettre à Darius
+message	EZR	6:2b-12	NIV	the memorandum of Cyrus and the decree of Darius	el memorando de Ciro y el decreto de Darío		le mémoire de Cyrus et le décret de Darius
+message	EZR	6:3-5	NVI	the memorandum of Cyrus	el memorando de Ciro		le mémoire de Cyrus
+message	EZR	6:6b-12	NVI	the decree of Darius	el decreto de Darío		le décret de Darius
+message	EZR	7:12-26	NIV,NVI,NLT,GNB,TEV	Artaxerxes' letter to Ezra	la carta de Artajerjes a Esdras		la lettre d'Artaxerxès à Esdras
+message	NEH	6:6b-7	NIV,NVI,NLT,GNB,TEV	Sanballat's letter to Nehemiah	la carta de Sambalat a Nehemías		la lettre de Sanballat à Néhémie
+message	ISA	36:4b-10	NIV,NLT	the Assyrian commander's message to Hezekiah	el mensaje del comandante asirio a Ezequías		le message du commandant assyrien à Ézéchias
+message	ISA	37:10-13	NLT	the Assyrian king's message to Hezekiah	el mensaje del rey asirio a Ezequías		le message du roi d'Assyrie à Ézéchias
+message	JER	29:4-23	NIV,NVI,NLT,GNB,TEV	Jeremiah's letter to the exiles in Babylon	la carta de Jeremías a los desterrados en Babilonia		la lettre de Jérémie aux exilés à Babylone
+message	JER	29:26-28	GNB,TEV	Shemaiah's letter to Zephaniah	la carta de Semaías a Sofonías		la lettre de Shemaya à Sophonie
+message	DAN	4:1-37	NIV,NLT	Nebuchadnezzar's account of his dream	el relato de Nabucodonosor sobre su sueño		le récit de son rêve par Nabuchodonosor
+message	DAN	4:1-18	NVI	Nebuchadnezzar's account of his dream	el relato de Nabucodonosor sobre su sueño		le récit de son rêve par Nabuchodonosor
+message	DAN	4:31b-32	NVI	the announcement from heaven to Nebuchadnezzar	el anuncio del cielo a Nabucodonosor		l'annonce du ciel à Nabuchodonosor
+message	DAN	4:34-37	NVI	Nebuchadnezzar's conclusion	la conclusión de Nabucodonosor		la conclusion de Nabuchodonosor
+message	DAN	6:25b-27	NIV,NVI,NLT	the decree of Darius	el decreto de Darío		le décret de Darius
+message	DAN	9:22b-27	NVI	Gabriel's message to Daniel	el mensaje de Gabriel a Daniel		le message de Gabriel à Daniel
+message	JON	3:7b-9	NIV,NVI	the decree of the king of Nineveh	el decreto del rey de Nínive		le décret du roi de Ninive
+message	ACT	15:23b-29	NIV,NVI,NLT,GNB,TEV	the letter from the council in Jerusalem	la carta del concilio de Jerusalén		la lettre de l'assemblée de Jérusalem
+message	ACT	23:25b-30	NIV,NVI,NLT,GNB,TEV	the letter from Claudius Lysias to Governor Felix	la carta de Claudio Lisias al gobernador Félix		la lettre de Claude Lysias au gouverneur Félix
+message	1JN	2:12-14	NLT	the "I am writing... I have written" sequence	la serie "les escribo... les he escrito"		la série « je vous écris... je vous ai écrit »
+message	REV	2:1b-7	NIV,NVI,NLT	the letter to the church in Ephesus	la carta a la iglesia de Éfeso		la lettre à l'Église d'Éphèse
+message	REV	2:8b-11	NIV,NVI,NLT	the letter to the church in Smyrna	la carta a la iglesia de Esmirna		la lettre à l'Église de Smyrne
+message	REV	2:12b-17	NIV,NVI,NLT	the letter to the church in Pergamum	la carta a la iglesia de Pérgamo		la lettre à l'Église de Pergame
+message	REV	2:18b-29	NIV,NVI,NLT	the letter to the church in Thyatira	la carta a la iglesia de Tiatira		la lettre à l'Église de Thyatire
+message	REV	3:1b-6	NIV,NVI,NLT	the letter to the church in Sardis	la carta a la iglesia de Sardis		la lettre à l'Église de Sardes
+message	REV	3:7b-13	NIV,NVI,NLT	the letter to the church in Philadelphia	la carta a la iglesia de Filadelfia		la lettre à l'Église de Philadelphie
+message	REV	3:14b-22	NIV,NVI,NLT	the letter to the church in Laodicea	la carta a la iglesia de Laodicea		la lettre à l'Église de Laodicée
+message	REV	12:10b-12	NLT	the message from heaven	el mensaje del cielo		le message du ciel
+message	REV	16:15	NLT	an announcement from heaven	un anuncio del cielo		une annonce du ciel
+message	REV	22:7; 22:12; 22:16	NLT	announcements from Jesus	anuncios de Jesús		annonces de Jésus
+prayer	2SA	7:18b-29	NIV,NVI	David's prayer	la oración de David		la prière de David
+prayer	1KI	8:23b-53,56-61	NIV,NVI	Solomon's prayer	la oración de Salomón		la prière de Salomon
+prayer	1CH	17:16b-27	NIV,NVI	David's prayer	la oración de David		la prière de David
+prayer	2CH	6:14b-42	NIV,NVI	Solomon's prayer	la oración de Salomón		la prière de Salomon
+prayer	2CH	20:6b-12	NIV,NVI	Jehoshaphat's prayer	la oración de Josafat		la prière de Josaphat
+prayer	EZR	9:6b-15	NIV,NVI	Ezra's prayer	la oración de Esdras		la prière d'Esdras
+prayer	NEH	1:5b-11	NIV,NVI	Nehemiah's prayer	la oración de Nehemías		la prière de Néhémie
+prayer	NEH	6:14	NLT	Nehemiah's short "remember" prayer	la breve oración de Nehemías: "acuérdate"		la courte prière de Néhémie : « souviens-toi »
+prayer	NEH	9:5b-38	NIV	the prayer of confession	la oración de confesión		la prière de confession
+prayer	NEH	10:28-39	NIV	the prayer of confession, continued	la oración de confesión (continuación)		la prière de confession (suite)
+prayer	NEH	13:14,22b,29,30b	NIV,NLT	Nehemiah's short "remember me" prayers	las breves oraciones de Nehemías: "acuérdate de mí"		les courtes prières de Néhémie : « souviens-toi de moi »
+prayer	JER	32:17-25	NIV,NVI	Jeremiah's prayer	la oración de Jeremías		la prière de Jérémie
+prayer	DAN	9:4b-19	NIV,NVI	Daniel's prayer	la oración de Daniel		la prière de Daniel
+prayer	JHN	17:1b-26	NIV,NVI	Jesus' prayer	la oración de Jesús		la prière de Jésus
+prose	GEN	36:2-8	NIV,NVI	the account of Esau	el relato de Esaú		la descendance d'Ésaü
+prose	EXO	6:14-25	NIV,NVI	the heads of the families	los jefes de familia		les chefs de famille
+prose	NUM	2:3-32	NIV,NVI	where each tribe camped	el lugar donde acampaba cada tribu		l'endroit où campait chaque tribu
+prose	NUM	7:12-83	NLT	the leaders and their offerings	los jefes y sus ofrendas		les chefs et leurs offrandes
+prose	NUM	26:5-51	NVI	the census of the Israelites	el censo de los israelitas		le recensement des Israélites
+prose	NUM	33:3-48	NIV,NVI	the journey from Egypt to Moab	el viaje de Egipto a Moab		le voyage de l'Égypte à Moab
+prose	NUM	34:3-12	CEV	the boundaries of the land	las fronteras de la tierra		les frontières du pays
+prose	JOS	13:2-5,8-12,15-31; 15:2-12; 15:21--16:9; 17:7-11; 18:11--19:46; 21:9-40	NIV	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	13:9-13,16-23,25-28,30-31	NLT	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	15:2-12,21-62	NLT	the land given to Judah	la tierra dada a Judá		le territoire donné à Juda
+prose	JOS	15:21-62	CEV	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	15:21-63	NVI	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	16:1-3,5b-10	NLT	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	17:7-13	NLT	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	18:12-20,21b-28	NLT	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	19:2-8a,10b-16,18-23,25-31,33-39,41-48	NLT	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	19:2-7,17-26,35-46	CEV	the division of the land	el reparto de la tierra		le partage du pays
+prose	JOS	20:7-8	CEV	the cities of refuge	las ciudades de refugio		les villes de refuge
+prose	1CH	6:55-60; 6:67-70	NIV	the towns given to the Kohathites	las ciudades dadas a los coatitas		les villes données aux Kehatites
+prose	1CH	6:71b-80	NIV	the towns given to the Gershonites	las ciudades dadas a los guersonitas		les villes données aux Guershonites
+prose	1CH	12:3-7	NIV	David's warriors	los guerreros de David		les guerriers de David
+prose	EZR	2:61b-66	NIV	a comment on the returnees	un comentario sobre los que regresaron		un commentaire sur ceux qui revinrent d'exil
+prose	NEH	7:6-7	NIV,NVI	the introduction to the list of the first returnees	la introducción a la lista de los primeros que regresaron		l'introduction à la liste des premiers revenus d'exil
+prose	PSA	2:7	NIV	prose within the psalm	prosa dentro del salmo		de la prose dans le psaume
+outline	GEN	1:1; 12:1; 25:19; 37:1	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	EXO	1:1; 15:22; 19:1; 25:1; 32:1; 35:1	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	LEV	1:1; 8:1; 11:1; 17:1	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	NUM	1:1; 10:11; 22:1	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	DEU	1:1; 12:1; 27:1; 28:69; 31:1	BFC	the book is divided into parts	el libro se divide en partes	org	le livre est divisé en parties
+outline	DEU	1:6; 4:44; 31:1	CEV	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	JDG	3:7	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	1CH	1:1; 10:1	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	2CH	1:1; 10:1	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	JOB	3:1; 32:1; 38:1; 42:7	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	PSA	1:1; 42:1; 73:1; 90:1; 107:1	NIV,NVI,NLT,GNB,TEV,BFC	the five books of the Psalms	los cinco libros de los Salmos	org	les cinq livres des Psaumes
+outline	PRO	1:1; 1:8; 10:1; 22:17; 24:23; 25:1; 30:1; 31:1; 31:10	NIV	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	ECC	1:1	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	ISA	1:1; 40:1; 56:1	BFC	the book is divided into three "books"	el libro se divide en tres "libros"		le livre est divisé en trois « livres »
+outline	EZK	1:1; 8:1; 40:1	GNB,TEV,BFC	the major divisions of the prophecy	las grandes divisiones de la profecía		les grandes divisions de la prophétie
+outline	DAN	1:1; 7:1	GNB,TEV	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	ZEC	1:1; 9:1	BFC	the book is divided into parts	el libro se divide en partes		le livre est divisé en parties
+outline	SNG	*	NVI	each "song" is identified	cada "canción" se identifica		chaque « chant » est indiqué
+division	JOS	21:9,20,34	CEV	minor headings for each tribe's Levite towns	subtítulos menores para las ciudades levitas de cada tribu		sous-titres pour les villes lévitiques de chaque tribu
+division	1CH	12:2,8,16,19	CEV	minor headings for the warriors of each tribe	subtítulos menores para los guerreros de cada tribu		sous-titres pour les guerriers de chaque tribu
+division	PRO	10:1; 30:1; 31:1	BFC	the book is divided by horizontal rules	el libro se divide con líneas horizontales		le livre est divisé par des filets horizontaux
+division	ISA	2:1; 13:1; 24:1; 28:1; 34:1; 36:1	BFC	the book is divided by horizontal rules	el libro se divide con líneas horizontales		le livre est divisé par des filets horizontaux
+division	JER	46:1; 52:1	BFC	the book is divided by horizontal rules	el libro se divide con líneas horizontales		le livre est divisé par des filets horizontaux
+division	JER	31:1,7,10,15,21,23,35,38; 33:10,12,17,19,23; 48:11,18,29,40; 51:36	BFC	the text is divided by asterisks	el texto se divide con asteriscos	org	le texte est divisé par des astérisques
+division	LAM	1:12,17,18; 2:11,13,18,20; 3:19,34,52; 4:11,17,21	BFC	the text is divided by asterisks	el texto se divide con asteriscos		le texte est divisé par des astérisques
+speaker	JER	3:19; 4:1,13,14; 5:1,2,7; 6:10,11b,24,26,27,28; 8:13,14,17,18,18b,20; 9:16b,18,21; 10:17,19,21; 14:7,19; 15:10,13,15; 23:19,21; 51:34,49,51,52,54	BFC	the speaker or the people addressed are named (italics)	se indica quién habla o a quién se dirige (cursiva)	org	celui qui parle ou ceux à qui il s'adresse sont nommés (italique)
+speaker	AMO	1:3,6,11,13; 2:1,4,6	BFC	the people the prophecy is about are named (italics)	se indica de quién trata la profecía (cursiva)		ceux que concerne la prophétie sont nommés (italique)
+speaker	JOB	*	GNB,TEV,CEV	each speaker is identified	se identifica a cada orador		chaque locuteur est indiqué
+speaker	SNG	*	NIV,NVI,NLT,GNB,TEV,BFC,CEV	the speaker of each part is identified	se identifica a quién habla en cada parte		le locuteur de chaque partie est indiqué
+acrostic	PSA	9-10; 25; 34; 37; 111; 112; 145	NVI	Hebrew letters begin each stanza	letras hebreas al comienzo de cada estrofa		des lettres hébraïques commencent chaque strophe
+acrostic	PSA	119	NIV,NVI	Hebrew letters begin each stanza	letras hebreas al comienzo de cada estrofa		des lettres hébraïques commencent chaque strophe
+acrostic	PRO	31:10-31	NVI	Hebrew letters begin each stanza	letras hebreas al comienzo de cada estrofa		des lettres hébraïques commencent chaque strophe
+acrostic	LAM	1-4	NVI	Hebrew letters begin each stanza	letras hebreas al comienzo de cada estrofa		des lettres hébraïques commencent chaque strophe
+centered	PSA	41:13c	NIV,NVI	centered closing of Book 1	cierre centrado del Libro 1		conclusion centrée du livre 1
+centered	PSA	72:19c	NIV,NVI	centered closing of Book 2	cierre centrado del Libro 2		conclusion centrée du livre 2
+centered	PSA	89:52b	NIV,NVI	centered closing of Book 3	cierre centrado del Libro 3		conclusion centrée du livre 3
+centered	JOL	3:21c	NIV	centered summary	resumen centrado		résumé centré
+centered	HAB	3:19c	NVI	centered direction to the choirmaster	indicación centrada para el director del coro		indication centrée pour le chef de chœur
+centered	ZEC	9:1; 12:1	NIV	centered title	título centrado		titre centré
+centered	REV	4:8	NIV,NVI	three-line centered chant	canto centrado de tres líneas		chant centré de trois lignes
+centered	REV	5:13d	NVI	centered last line of poetry	última línea de poesía centrada		dernière ligne de poésie centrée
+refrain	PSA	136	NIV,NVI,NLT	the response to each statement is in italics	la respuesta a cada frase va en cursiva		la réponse à chaque phrase est en italique
+numbered	PRO	22:22--24:22	NVI,GNB,TEV,CEV	each wise saying is numbered	cada dicho sabio está numerado		chaque parole de sagesse est numérotée
+inscription	EZK	48:35c	NIV,NVI	centered inscription (the name of the city)	inscripción centrada (el nombre de la ciudad)		inscription centrée (le nom de la ville)
+inscription	DAN	5:25b	NIV,NLT	the inscription on the wall	la inscripción en la pared		l'inscription sur le mur
+inscription	MAT	27:37b	NIV,NVI	the inscription on the cross	la inscripción en la cruz		l'inscription sur la croix
+inscription	MRK	15:26b	NIV,NVI	the inscription on the cross	la inscripción en la cruz		l'inscription sur la croix
+inscription	LUK	23:38b	NIV,NVI	the inscription on the cross	la inscripción en la cruz		l'inscription sur la croix
+inscription	JHN	19:19b	NIV,NVI	the inscription on the cross	la inscripción en la cruz		l'inscription sur la croix
+inscription	ACT	17:23b	NIV,NVI	the inscription on the altar	la inscripción en el altar		l'inscription sur l'autel
+inscription	REV	17:5b	NIV,NVI	four-line centered inscription	inscripción centrada de cuatro líneas		inscription centrée de quatre lignes
+inscription	REV	19:16b	NIV,NVI	centered inscription	inscripción centrada		inscription centrée
+textual	MRK	16:9	NIV,NVI,NLT,GNB,TEV,CEV	the other endings of Mark (rule, centered note or special heading)	los otros finales de Marcos (línea, nota centrada o título especial)		les autres finales de Marc (filet, note centrée ou titre spécial)
+textual	JHN	7:53	NIV,NVI,NLT	start of a passage missing in early manuscripts (rule or centered note)	comienzo de un pasaje que falta en los manuscritos antiguos (línea o nota centrada)		début d'un passage absent des manuscrits anciens (filet ou note centrée)
+textual	JHN	8:12	NIV,NVI	end of that passage (rule)	fin de ese pasaje (línea)		fin de ce passage (filet)
+
+# Old Testament quotations in the New Testament (list supplied by a user, 2026-10-22). Publication "OTQ" is
+# not a Bible: it is the "OT quotations" tick box. The descriptions are the Old Testament references.
+otquote	MAT	1:23	OTQ	Isaiah 7:14	Isaías 7:14		Ésaïe 7:14
+otquote	MAT	2:6	OTQ	Micah 5:2	Miqueas 5:2		Michée 5:2
+otquote	MAT	2:15	OTQ	Hosea 11:1	Oseas 11:1		Osée 11:1
+otquote	MAT	2:18	OTQ	Jeremiah 31:15	Jeremías 31:15		Jérémie 31:15
+otquote	MAT	3:3	OTQ	Isaiah 40:3	Isaías 40:3		Ésaïe 40:3
+otquote	MAT	4:4	OTQ	Deuteronomy 8:3	Deuteronomio 8:3		Deutéronome 8:3
+otquote	MAT	4:6	OTQ	Psalm 91:11-12	Salmo 91:11-12		Psaume 91:11-12
+otquote	MAT	4:7	OTQ	Deuteronomy 6:16	Deuteronomio 6:16		Deutéronome 6:16
+otquote	MAT	4:10	OTQ	Deuteronomy 6:13	Deuteronomio 6:13		Deutéronome 6:13
+otquote	MAT	4:15-16	OTQ	Isaiah 9:1-2	Isaías 9:1-2		Ésaïe 9:1-2
+otquote	MAT	5:21	OTQ	Exodus 20:13	Éxodo 20:13		Exode 20:13
+otquote	MAT	5:27	OTQ	Exodus 20:14	Éxodo 20:14		Exode 20:14
+otquote	MAT	5:31	OTQ	Deuteronomy 24:1	Deuteronomio 24:1		Deutéronome 24:1
+otquote	MAT	5:38	OTQ	Exodus 21:24	Éxodo 21:24		Exode 21:24
+otquote	MAT	5:43	OTQ	Leviticus 19:18	Levítico 19:18		Lévitique 19:18
+otquote	MAT	8:17	OTQ	Isaiah 53:4	Isaías 53:4		Ésaïe 53:4
+otquote	MAT	9:13	OTQ	Hosea 6:6	Oseas 6:6		Osée 6:6
+otquote	MAT	11:10	OTQ	Malachi 3:1	Malaquías 3:1		Malachie 3:1
+otquote	MAT	12:7	OTQ	Hosea 6:6	Oseas 6:6		Osée 6:6
+otquote	MAT	12:18-21	OTQ	Isaiah 42:1-4	Isaías 42:1-4		Ésaïe 42:1-4
+otquote	MAT	13:14-15	OTQ	Isaiah 6:9-10	Isaías 6:9-10		Ésaïe 6:9-10
+otquote	MAT	13:35	OTQ	Psalm 78:2	Salmo 78:2		Psaume 78:2
+otquote	MAT	15:4	OTQ	Exodus 20:12; 21:17	Éxodo 20:12; 21:17		Exode 20:12; 21:17
+otquote	MAT	15:8-9	OTQ	Isaiah 29:13	Isaías 29:13		Ésaïe 29:13
+otquote	MAT	19:4-5	OTQ	Genesis 1:27; 2:24	Génesis 1:27; 2:24		Genèse 1:27; 2:24
+otquote	MAT	19:18-19	OTQ	Exodus 20:12-16; Leviticus 19:18	Éxodo 20:12-16; Levítico 19:18		Exode 20:12-16; Lévitique 19:18
+otquote	MAT	21:5	OTQ	Zechariah 9:9; Isaiah 62:11	Zacarías 9:9; Isaías 62:11		Zacharie 9:9; Ésaïe 62:11
+otquote	MAT	21:9	OTQ	Psalm 118:25-26	Salmo 118:25-26		Psaume 118:25-26
+otquote	MAT	21:13	OTQ	Isaiah 56:7; Jeremiah 7:11	Isaías 56:7; Jeremías 7:11		Ésaïe 56:7; Jérémie 7:11
+otquote	MAT	21:16	OTQ	Psalm 8:2	Salmo 8:2		Psaume 8:2
+otquote	MAT	21:42	OTQ	Psalm 118:22-23	Salmo 118:22-23		Psaume 118:22-23
+otquote	MAT	22:24	OTQ	Deuteronomy 25:5	Deuteronomio 25:5		Deutéronome 25:5
+otquote	MAT	22:32	OTQ	Exodus 3:6	Éxodo 3:6		Exode 3:6
+otquote	MAT	22:37	OTQ	Deuteronomy 6:5	Deuteronomio 6:5		Deutéronome 6:5
+otquote	MAT	22:39	OTQ	Leviticus 19:18	Levítico 19:18		Lévitique 19:18
+otquote	MAT	22:44	OTQ	Psalm 110:1	Salmo 110:1		Psaume 110:1
+otquote	MAT	26:31	OTQ	Zechariah 13:7	Zacarías 13:7		Zacharie 13:7
+otquote	MAT	27:9-10	OTQ	Zechariah 11:12-13; Jeremiah 18:1-4; 32:6-9	Zacarías 11:12-13; Jeremías 18:1-4; 32:6-9		Zacharie 11:12-13; Jérémie 18:1-4; 32:6-9
+otquote	MAT	27:46	OTQ	Psalm 22:1	Salmo 22:1		Psaume 22:1
+otquote	MRK	1:2-3	OTQ	Malachi 3:1; Isaiah 40:3	Malaquías 3:1; Isaías 40:3		Malachie 3:1; Ésaïe 40:3
+otquote	MRK	4:12	OTQ	Isaiah 6:9-10	Isaías 6:9-10		Ésaïe 6:9-10
+otquote	MRK	7:6-7	OTQ	Isaiah 29:13	Isaías 29:13		Ésaïe 29:13
+otquote	MRK	7:10	OTQ	Exodus 20:12; 21:17	Éxodo 20:12; 21:17		Exode 20:12; 21:17
+otquote	MRK	10:6-8	OTQ	Genesis 1:27; 2:24	Génesis 1:27; 2:24		Genèse 1:27; 2:24
+otquote	MRK	10:19	OTQ	Exodus 20:12-16	Éxodo 20:12-16		Exode 20:12-16
+otquote	MRK	11:9-10	OTQ	Psalm 118:25-26	Salmo 118:25-26		Psaume 118:25-26
+otquote	MRK	11:17	OTQ	Isaiah 56:7; Jeremiah 7:11	Isaías 56:7; Jeremías 7:11		Ésaïe 56:7; Jérémie 7:11
+otquote	MRK	12:10-11	OTQ	Psalm 118:22-23	Salmo 118:22-23		Psaume 118:22-23
+otquote	MRK	12:19	OTQ	Deuteronomy 25:5	Deuteronomio 25:5		Deutéronome 25:5
+otquote	MRK	12:26	OTQ	Exodus 3:6	Éxodo 3:6		Exode 3:6
+otquote	MRK	12:29-30	OTQ	Deuteronomy 6:4-5	Deuteronomio 6:4-5		Deutéronome 6:4-5
+otquote	MRK	12:31	OTQ	Leviticus 19:18	Levítico 19:18		Lévitique 19:18
+otquote	MRK	12:36	OTQ	Psalm 110:1	Salmo 110:1		Psaume 110:1
+otquote	MRK	14:27	OTQ	Zechariah 13:7	Zacarías 13:7		Zacharie 13:7
+otquote	MRK	15:34	OTQ	Psalm 22:1	Salmo 22:1		Psaume 22:1
+otquote	LUK	2:23	OTQ	Exodus 13:2, 12	Éxodo 13:2, 12		Exode 13:2, 12
+otquote	LUK	3:4-6	OTQ	Isaiah 40:3-5	Isaías 40:3-5		Ésaïe 40:3-5
+otquote	LUK	4:4	OTQ	Deuteronomy 8:3	Deuteronomio 8:3		Deutéronome 8:3
+otquote	LUK	4:8	OTQ	Deuteronomy 6:13	Deuteronomio 6:13		Deutéronome 6:13
+otquote	LUK	4:10-11	OTQ	Psalm 91:11-12	Salmo 91:11-12		Psaume 91:11-12
+otquote	LUK	4:12	OTQ	Deuteronomy 6:16	Deuteronomio 6:16		Deutéronome 6:16
+otquote	LUK	4:18-19	OTQ	Isaiah 61:1-2; 58:6	Isaías 61:1-2; 58:6		Ésaïe 61:1-2; 58:6
+otquote	LUK	7:27	OTQ	Malachi 3:1	Malaquías 3:1		Malachie 3:1
+otquote	LUK	8:10	OTQ	Isaiah 6:9	Isaías 6:9		Ésaïe 6:9
+otquote	LUK	10:27	OTQ	Deuteronomy 6:5; Leviticus 19:18	Deuteronomio 6:5; Levítico 19:18		Deutéronome 6:5; Lévitique 19:18
+otquote	LUK	18:20	OTQ	Exodus 20:12-16	Éxodo 20:12-16		Exode 20:12-16
+otquote	LUK	19:38	OTQ	Psalm 118:26	Salmo 118:26		Psaume 118:26
+otquote	LUK	19:46	OTQ	Isaiah 56:7; Jeremiah 7:11	Isaías 56:7; Jeremías 7:11		Ésaïe 56:7; Jérémie 7:11
+otquote	LUK	20:17	OTQ	Psalm 118:22	Salmo 118:22		Psaume 118:22
+otquote	LUK	20:28	OTQ	Deuteronomy 25:5	Deuteronomio 25:5		Deutéronome 25:5
+otquote	LUK	20:37	OTQ	Exodus 3:6	Éxodo 3:6		Exode 3:6
+otquote	LUK	20:42-43	OTQ	Psalm 110:1	Salmo 110:1		Psaume 110:1
+otquote	LUK	22:37	OTQ	Isaiah 53:12	Isaías 53:12		Ésaïe 53:12
+otquote	LUK	23:30	OTQ	Hosea 10:8	Oseas 10:8		Osée 10:8
+otquote	LUK	23:46	OTQ	Psalm 31:5	Salmo 31:5		Psaume 31:5
+otquote	JHN	1:23	OTQ	Isaiah 40:3	Isaías 40:3		Ésaïe 40:3
+otquote	JHN	2:17	OTQ	Psalm 69:9	Salmo 69:9		Psaume 69:9
+otquote	JHN	6:31	OTQ	Psalm 78:24; Exodus 16:4	Salmo 78:24; Éxodo 16:4		Psaume 78:24; Exode 16:4
+otquote	JHN	6:45	OTQ	Isaiah 54:13	Isaías 54:13		Ésaïe 54:13
+otquote	JHN	7:38	OTQ	Isaiah 58:11 (cf. Zechariah 14:8)	Isaías 58:11 (cf. Zacarías 14:8)		Ésaïe 58:11 (cf. Zacharie 14:8)
+otquote	JHN	8:17	OTQ	Deuteronomy 19:15	Deuteronomio 19:15		Deutéronome 19:15
+otquote	JHN	10:34	OTQ	Psalm 82:6	Salmo 82:6		Psaume 82:6
+otquote	JHN	12:13	OTQ	Psalm 118:25-26	Salmo 118:25-26		Psaume 118:25-26
+otquote	JHN	12:15	OTQ	Zechariah 9:9	Zacarías 9:9		Zacharie 9:9
+otquote	JHN	12:38	OTQ	Isaiah 53:1	Isaías 53:1		Ésaïe 53:1
+otquote	JHN	12:40	OTQ	Isaiah 6:10	Isaías 6:10		Ésaïe 6:10
+otquote	JHN	13:18	OTQ	Psalm 41:9	Salmo 41:9		Psaume 41:9
+otquote	JHN	15:25	OTQ	Psalm 69:4; 35:19	Salmo 69:4; 35:19		Psaume 69:4; 35:19
+otquote	JHN	19:24	OTQ	Psalm 22:18	Salmo 22:18		Psaume 22:18
+otquote	JHN	19:36	OTQ	Exodus 12:46; Psalm 34:20	Éxodo 12:46; Salmo 34:20		Exode 12:46; Psaume 34:20
+otquote	JHN	19:37	OTQ	Zechariah 12:10	Zacarías 12:10		Zacharie 12:10
+otquote	ACT	1:20	OTQ	Psalm 69:25; 109:8	Salmo 69:25; 109:8		Psaume 69:25; 109:8
+otquote	ACT	2:17-21	OTQ	Joel 2:28-32	Joel 2:28-32		Joël 2:28-32
+otquote	ACT	2:25-28	OTQ	Psalm 16:8-11	Salmo 16:8-11		Psaume 16:8-11
+otquote	ACT	2:34-35	OTQ	Psalm 110:1	Salmo 110:1		Psaume 110:1
+otquote	ACT	3:22-23	OTQ	Deuteronomy 18:15, 18-19	Deuteronomio 18:15, 18-19		Deutéronome 18:15, 18-19
+otquote	ACT	3:25	OTQ	Genesis 22:18; 12:3	Génesis 22:18; 12:3		Genèse 22:18; 12:3
+otquote	ACT	4:11	OTQ	Psalm 118:22	Salmo 118:22		Psaume 118:22
+otquote	ACT	4:25-26	OTQ	Psalm 2:1-2	Salmo 2:1-2		Psaume 2:1-2
+otquote	ACT	7:3	OTQ	Genesis 12:1	Génesis 12:1		Genèse 12:1
+otquote	ACT	7:6-7	OTQ	Genesis 15:13-14	Génesis 15:13-14		Genèse 15:13-14
+otquote	ACT	7:32-34	OTQ	Exodus 3:6-10	Éxodo 3:6-10		Exode 3:6-10
+otquote	ACT	7:37	OTQ	Deuteronomy 18:15	Deuteronomio 18:15		Deutéronome 18:15
+otquote	ACT	7:42-43	OTQ	Amos 5:25-27	Amós 5:25-27		Amos 5:25-27
+otquote	ACT	7:49-50	OTQ	Isaiah 66:1-2	Isaías 66:1-2		Ésaïe 66:1-2
+otquote	ACT	8:32-33	OTQ	Isaiah 53:7-8	Isaías 53:7-8		Ésaïe 53:7-8
+otquote	ACT	13:22	OTQ	Psalm 89:20; 1 Samuel 13:14	Salmo 89:20; 1 Samuel 13:14		Psaume 89:20; 1 Samuel 13:14
+otquote	ACT	13:33	OTQ	Psalm 2:7	Salmo 2:7		Psaume 2:7
+otquote	ACT	13:34	OTQ	Isaiah 55:3	Isaías 55:3		Ésaïe 55:3
+otquote	ACT	13:35	OTQ	Psalm 16:10	Salmo 16:10		Psaume 16:10
+otquote	ACT	13:41	OTQ	Habakkuk 1:5	Habacuc 1:5		Habacuc 1:5
+otquote	ACT	13:47	OTQ	Isaiah 49:6	Isaías 49:6		Ésaïe 49:6
+otquote	ACT	15:16-17	OTQ	Amos 9:11-12	Amós 9:11-12		Amos 9:11-12
+otquote	ACT	23:5	OTQ	Exodus 22:28	Éxodo 22:28		Exode 22:28
+otquote	ACT	28:26-27	OTQ	Isaiah 6:9-10	Isaías 6:9-10		Ésaïe 6:9-10
+otquote	ROM	1:17	OTQ	Habakkuk 2:4	Habacuc 2:4		Habacuc 2:4
+otquote	ROM	2:24	OTQ	Isaiah 52:5	Isaías 52:5		Ésaïe 52:5
+otquote	ROM	3:4	OTQ	Psalm 51:4	Salmo 51:4		Psaume 51:4
+otquote	ROM	3:10-12	OTQ	Psalm 14:1-3; 53:1-3; Ecclesiastes 7:20	Salmo 14:1-3; 53:1-3; Eclesiastés 7:20		Psaume 14:1-3; 53:1-3; Ecclésiaste 7:20
+otquote	ROM	3:13	OTQ	Psalm 5:9; 140:3	Salmo 5:9; 140:3		Psaume 5:9; 140:3
+otquote	ROM	3:14	OTQ	Psalm 10:7	Salmo 10:7		Psaume 10:7
+otquote	ROM	3:15-17	OTQ	Isaiah 59:7-8	Isaías 59:7-8		Ésaïe 59:7-8
+otquote	ROM	3:18	OTQ	Psalm 36:1	Salmo 36:1		Psaume 36:1
+otquote	ROM	4:3	OTQ	Genesis 15:6	Génesis 15:6		Genèse 15:6
+otquote	ROM	4:7-8	OTQ	Psalm 32:1-2	Salmo 32:1-2		Psaume 32:1-2
+otquote	ROM	4:17	OTQ	Genesis 17:5	Génesis 17:5		Genèse 17:5
+otquote	ROM	4:18	OTQ	Genesis 15:5	Génesis 15:5		Genèse 15:5
+otquote	ROM	7:7; 13:9	OTQ	Exodus 20:17; Deuteronomy 5:21	Éxodo 20:17; Deuteronomio 5:21		Exode 20:17; Deutéronome 5:21
+otquote	ROM	8:36	OTQ	Psalm 44:22	Salmo 44:22		Psaume 44:22
+otquote	ROM	9:7	OTQ	Genesis 21:12	Génesis 21:12		Genèse 21:12
+otquote	ROM	9:9	OTQ	Genesis 18:10, 14	Génesis 18:10, 14		Genèse 18:10, 14
+otquote	ROM	9:12	OTQ	Genesis 25:23	Génesis 25:23		Genèse 25:23
+otquote	ROM	9:13	OTQ	Malachi 1:2-3	Malaquías 1:2-3		Malachie 1:2-3
+otquote	ROM	9:15	OTQ	Exodus 33:19	Éxodo 33:19		Exode 33:19
+otquote	ROM	9:17	OTQ	Exodus 9:16	Éxodo 9:16		Exode 9:16
+otquote	ROM	9:25-26	OTQ	Hosea 2:23; 1:10	Oseas 2:23; 1:10		Osée 2:23; 1:10
+otquote	ROM	9:27-28	OTQ	Isaiah 10:22-23; Hosea 1:10	Isaías 10:22-23; Oseas 1:10		Ésaïe 10:22-23; Osée 1:10
+otquote	ROM	9:29	OTQ	Isaiah 1:9	Isaías 1:9		Ésaïe 1:9
+otquote	ROM	9:33	OTQ	Isaiah 28:16; 8:14	Isaías 28:16; 8:14		Ésaïe 28:16; 8:14
+otquote	ROM	10:5	OTQ	Leviticus 18:5	Levítico 18:5		Lévitique 18:5
+otquote	ROM	10:6-8	OTQ	Deuteronomy 30:12-14	Deuteronomio 30:12-14		Deutéronome 30:12-14
+otquote	ROM	10:11	OTQ	Isaiah 28:16	Isaías 28:16		Ésaïe 28:16
+otquote	ROM	10:13	OTQ	Joel 2:32	Joel 2:32		Joël 2:32
+otquote	ROM	10:15	OTQ	Isaiah 52:7	Isaías 52:7		Ésaïe 52:7
+otquote	ROM	10:16	OTQ	Isaiah 53:1	Isaías 53:1		Ésaïe 53:1
+otquote	ROM	10:18	OTQ	Psalm 19:4	Salmo 19:4		Psaume 19:4
+otquote	ROM	10:19	OTQ	Deuteronomy 32:21	Deuteronomio 32:21		Deutéronome 32:21
+otquote	ROM	10:20-21	OTQ	Isaiah 65:1-2	Isaías 65:1-2		Ésaïe 65:1-2
+otquote	ROM	11:3-4	OTQ	1 Kings 19:10, 14, 18	1 Reyes 19:10, 14, 18		1 Rois 19:10, 14, 18
+otquote	ROM	11:8	OTQ	Deuteronomy 29:4; Isaiah 29:10	Deuteronomio 29:4; Isaías 29:10		Deutéronome 29:4; Ésaïe 29:10
+otquote	ROM	11:9-10	OTQ	Psalm 69:22-23	Salmo 69:22-23		Psaume 69:22-23
+otquote	ROM	11:26-27	OTQ	Isaiah 59:20-21; 27:9	Isaías 59:20-21; 27:9		Ésaïe 59:20-21; 27:9
+otquote	ROM	11:34	OTQ	Isaiah 40:13	Isaías 40:13		Ésaïe 40:13
+otquote	ROM	11:35	OTQ	Job 41:11	Job 41:11		Job 41:11
+otquote	ROM	12:19	OTQ	Deuteronomy 32:35	Deuteronomio 32:35		Deutéronome 32:35
+otquote	ROM	12:20	OTQ	Proverbs 25:21-22	Proverbios 25:21-22		Proverbes 25:21-22
+otquote	ROM	13:9	OTQ	Leviticus 19:18	Levítico 19:18		Lévitique 19:18
+otquote	ROM	14:11	OTQ	Isaiah 45:23	Isaías 45:23		Ésaïe 45:23
+otquote	ROM	15:3	OTQ	Psalm 69:9	Salmo 69:9		Psaume 69:9
+otquote	ROM	15:9	OTQ	Psalm 18:49; 2 Samuel 22:50	Salmo 18:49; 2 Samuel 22:50		Psaume 18:49; 2 Samuel 22:50
+otquote	ROM	15:10	OTQ	Deuteronomy 32:43	Deuteronomio 32:43		Deutéronome 32:43
+otquote	ROM	15:11	OTQ	Psalm 117:1	Salmo 117:1		Psaume 117:1
+otquote	ROM	15:12	OTQ	Isaiah 11:10	Isaías 11:10		Ésaïe 11:10
+otquote	ROM	15:21	OTQ	Isaiah 52:15	Isaías 52:15		Ésaïe 52:15
+otquote	1CO	1:19	OTQ	Isaiah 29:14	Isaías 29:14		Ésaïe 29:14
+otquote	1CO	1:31	OTQ	Jeremiah 9:24	Jeremías 9:24		Jérémie 9:24
+otquote	1CO	2:9	OTQ	Isaiah 64:4; 65:17	Isaías 64:4; 65:17		Ésaïe 64:4; 65:17
+otquote	1CO	2:16	OTQ	Isaiah 40:13	Isaías 40:13		Ésaïe 40:13
+otquote	1CO	3:19	OTQ	Job 5:13	Job 5:13		Job 5:13
+otquote	1CO	3:20	OTQ	Psalm 94:11	Salmo 94:11		Psaume 94:11
+otquote	1CO	5:13	OTQ	Deuteronomy 17:7; 19:19	Deuteronomio 17:7; 19:19		Deutéronome 17:7; 19:19
+otquote	1CO	6:16	OTQ	Genesis 2:24	Génesis 2:24		Genèse 2:24
+otquote	1CO	9:9	OTQ	Deuteronomy 25:4	Deuteronomio 25:4		Deutéronome 25:4
+otquote	1CO	10:7	OTQ	Exodus 32:6	Éxodo 32:6		Exode 32:6
+otquote	1CO	10:26	OTQ	Psalm 24:1	Salmo 24:1		Psaume 24:1
+otquote	1CO	14:21	OTQ	Isaiah 28:11-12	Isaías 28:11-12		Ésaïe 28:11-12
+otquote	1CO	15:25	OTQ	Psalm 110:1	Salmo 110:1		Psaume 110:1
+otquote	1CO	15:27	OTQ	Psalm 8:6	Salmo 8:6		Psaume 8:6
+otquote	1CO	15:32	OTQ	Isaiah 22:13	Isaías 22:13		Ésaïe 22:13
+otquote	1CO	15:45	OTQ	Genesis 2:7	Génesis 2:7		Genèse 2:7
+otquote	1CO	15:54	OTQ	Isaiah 25:8	Isaías 25:8		Ésaïe 25:8
+otquote	1CO	15:55	OTQ	Hosea 13:14	Oseas 13:14		Osée 13:14
+otquote	2CO	4:13	OTQ	Psalm 116:10	Salmo 116:10		Psaume 116:10
+otquote	2CO	6:2	OTQ	Isaiah 49:8	Isaías 49:8		Ésaïe 49:8
+otquote	2CO	6:16	OTQ	Leviticus 26:11-12; Ezekiel 37:27	Levítico 26:11-12; Ezequiel 37:27		Lévitique 26:11-12; Ézéchiel 37:27
+otquote	2CO	6:17	OTQ	Isaiah 52:11	Isaías 52:11		Ésaïe 52:11
+otquote	2CO	6:18	OTQ	2 Samuel 7:14; Isaiah 43:6	2 Samuel 7:14; Isaías 43:6		2 Samuel 7:14; Ésaïe 43:6
+otquote	2CO	8:15	OTQ	Exodus 16:18	Éxodo 16:18		Exode 16:18
+otquote	2CO	9:9	OTQ	Psalm 112:9	Salmo 112:9		Psaume 112:9
+otquote	2CO	13:1	OTQ	Deuteronomy 19:15	Deuteronomio 19:15		Deutéronome 19:15
+otquote	GAL	3:6	OTQ	Genesis 15:6	Génesis 15:6		Genèse 15:6
+otquote	GAL	3:8	OTQ	Genesis 12:3	Génesis 12:3		Genèse 12:3
+otquote	GAL	3:10	OTQ	Deuteronomy 27:26	Deuteronomio 27:26		Deutéronome 27:26
+otquote	GAL	3:11	OTQ	Habakkuk 2:4	Habacuc 2:4		Habacuc 2:4
+otquote	GAL	3:12	OTQ	Leviticus 18:5	Levítico 18:5		Lévitique 18:5
+otquote	GAL	3:13	OTQ	Deuteronomy 21:23	Deuteronomio 21:23		Deutéronome 21:23
+otquote	GAL	3:16	OTQ	Genesis 12:7; 13:15; 17:7	Génesis 12:7; 13:15; 17:7		Genèse 12:7; 13:15; 17:7
+otquote	GAL	4:27	OTQ	Isaiah 54:1	Isaías 54:1		Ésaïe 54:1
+otquote	GAL	4:30	OTQ	Genesis 21:10	Génesis 21:10		Genèse 21:10
+otquote	GAL	5:14	OTQ	Leviticus 19:18	Levítico 19:18		Lévitique 19:18
+otquote	EPH	4:8	OTQ	Psalm 68:18	Salmo 68:18		Psaume 68:18
+otquote	EPH	4:25	OTQ	Zechariah 8:16	Zacarías 8:16		Zacharie 8:16
+otquote	EPH	4:26	OTQ	Psalm 4:4	Salmo 4:4		Psaume 4:4
+otquote	EPH	5:31	OTQ	Genesis 2:24	Génesis 2:24		Genèse 2:24
+otquote	EPH	6:2-3	OTQ	Exodus 20:12; Deuteronomy 5:16	Éxodo 20:12; Deuteronomio 5:16		Exode 20:12; Deutéronome 5:16
+otquote	1TI	5:18	OTQ	Deuteronomy 25:4	Deuteronomio 25:4		Deutéronome 25:4
+otquote	2TI	2:19	OTQ	Numbers 16:5; Isaiah 26:13	Números 16:5; Isaías 26:13		Nombres 16:5; Ésaïe 26:13
+otquote	HEB	1:5	OTQ	Psalm 2:7; 2 Samuel 7:14	Salmo 2:7; 2 Samuel 7:14		Psaume 2:7; 2 Samuel 7:14
+otquote	HEB	1:6	OTQ	Deuteronomy 32:43 (LXX); Psalm 97:7	Deuteronomio 32:43 (LXX); Salmo 97:7		Deutéronome 32:43 (LXX); Psaume 97:7
+otquote	HEB	1:7	OTQ	Psalm 104:4	Salmo 104:4		Psaume 104:4
+otquote	HEB	1:8-9	OTQ	Psalm 45:6-7	Salmo 45:6-7		Psaume 45:6-7
+otquote	HEB	1:10-12	OTQ	Psalm 102:25-27	Salmo 102:25-27		Psaume 102:25-27
+otquote	HEB	1:13	OTQ	Psalm 110:1	Salmo 110:1		Psaume 110:1
+otquote	HEB	2:6-8	OTQ	Psalm 8:4-6	Salmo 8:4-6		Psaume 8:4-6
+otquote	HEB	2:12	OTQ	Psalm 22:22	Salmo 22:22		Psaume 22:22
+otquote	HEB	2:13	OTQ	Isaiah 8:17-18	Isaías 8:17-18		Ésaïe 8:17-18
+otquote	HEB	3:7-11	OTQ	Psalm 95:7-11	Salmo 95:7-11		Psaume 95:7-11
+otquote	HEB	4:4	OTQ	Genesis 2:2	Génesis 2:2		Genèse 2:2
+otquote	HEB	5:5	OTQ	Psalm 2:7	Salmo 2:7		Psaume 2:7
+otquote	HEB	5:6	OTQ	Psalm 110:4	Salmo 110:4		Psaume 110:4
+otquote	HEB	6:14	OTQ	Genesis 22:17	Génesis 22:17		Genèse 22:17
+otquote	HEB	7:1-2	OTQ	Genesis 14:17-20	Génesis 14:17-20		Genèse 14:17-20
+otquote	HEB	7:17,21	OTQ	Psalm 110:4	Salmo 110:4		Psaume 110:4
+otquote	HEB	8:5	OTQ	Exodus 25:40	Éxodo 25:40		Exode 25:40
+otquote	HEB	8:8-12	OTQ	Jeremiah 31:31-34	Jeremías 31:31-34		Jérémie 31:31-34
+otquote	HEB	9:20	OTQ	Exodus 24:8	Éxodo 24:8		Exode 24:8
+otquote	HEB	10:5-7	OTQ	Psalm 40:6-8	Salmo 40:6-8		Psaume 40:6-8
+otquote	HEB	10:16-17	OTQ	Jeremiah 31:33-34	Jeremías 31:33-34		Jérémie 31:33-34
+otquote	HEB	10:30	OTQ	Deuteronomy 32:35-36	Deuteronomio 32:35-36		Deutéronome 32:35-36
+otquote	HEB	10:37-38	OTQ	Isaiah 26:20; Habakkuk 2:3-4	Isaías 26:20; Habacuc 2:3-4		Ésaïe 26:20; Habacuc 2:3-4
+otquote	HEB	11:5	OTQ	Genesis 5:24	Génesis 5:24		Genèse 5:24
+otquote	HEB	11:18	OTQ	Genesis 21:12	Génesis 21:12		Genèse 21:12
+otquote	HEB	12:5-6	OTQ	Proverbs 3:11-12	Proverbios 3:11-12		Proverbes 3:11-12
+otquote	HEB	12:20	OTQ	Exodus 19:12-13	Éxodo 19:12-13		Exode 19:12-13
+otquote	HEB	12:21	OTQ	Deuteronomy 9:19	Deuteronomio 9:19		Deutéronome 9:19
+otquote	HEB	12:26	OTQ	Haggai 2:6	Hageo 2:6		Aggée 2:6
+otquote	HEB	12:29	OTQ	Deuteronomy 4:24	Deuteronomio 4:24		Deutéronome 4:24
+otquote	HEB	13:5	OTQ	Deuteronomy 31:6, 8; Joshua 1:5	Deuteronomio 31:6, 8; Josué 1:5		Deutéronome 31:6, 8; Josué 1:5
+otquote	HEB	13:6	OTQ	Psalm 118:6	Salmo 118:6		Psaume 118:6
+otquote	JAS	2:8	OTQ	Leviticus 19:18	Levítico 19:18		Lévitique 19:18
+otquote	JAS	2:11	OTQ	Exodus 20:13-14	Éxodo 20:13-14		Exode 20:13-14
+otquote	JAS	2:23	OTQ	Genesis 15:6	Génesis 15:6		Genèse 15:6
+otquote	JAS	4:6	OTQ	Proverbs 3:34	Proverbios 3:34		Proverbes 3:34
+otquote	1PE	1:16	OTQ	Leviticus 11:44-45; 19:2	Levítico 11:44-45; 19:2		Lévitique 11:44-45; 19:2
+otquote	1PE	1:24-25	OTQ	Isaiah 40:6-8	Isaías 40:6-8		Ésaïe 40:6-8
+otquote	1PE	2:6	OTQ	Isaiah 28:16	Isaías 28:16		Ésaïe 28:16
+otquote	1PE	2:7	OTQ	Psalm 118:22	Salmo 118:22		Psaume 118:22
+otquote	1PE	2:8	OTQ	Isaiah 8:14	Isaías 8:14		Ésaïe 8:14
+otquote	1PE	2:9	OTQ	Exodus 19:5-6; Isaiah 43:20-21	Éxodo 19:5-6; Isaías 43:20-21		Exode 19:5-6; Ésaïe 43:20-21
+otquote	1PE	2:22	OTQ	Isaiah 53:9	Isaías 53:9		Ésaïe 53:9
+otquote	1PE	3:10-12	OTQ	Psalm 34:12-16	Salmo 34:12-16		Psaume 34:12-16
+otquote	1PE	3:14-15	OTQ	Isaiah 8:12-13	Isaías 8:12-13		Ésaïe 8:12-13
+otquote	1PE	4:18	OTQ	Proverbs 11:31	Proverbios 11:31		Proverbes 11:31
+otquote	1PE	5:5	OTQ	Proverbs 3:34	Proverbios 3:34		Proverbes 3:34
+otquote	2PE	2:22	OTQ	Proverbs 26:11	Proverbios 26:11		Proverbes 26:11
+otquote	REV	1:7	OTQ	Daniel 7:13; Zechariah 12:10	Daniel 7:13; Zacarías 12:10		Daniel 7:13; Zacharie 12:10
+otquote	REV	2:27	OTQ	Psalm 2:9	Salmo 2:9		Psaume 2:9
+otquote	REV	15:3-4	OTQ	Exodus 15:1-18; Psalm 86:9-10	Éxodo 15:1-18; Salmo 86:9-10		Exode 15:1-18; Psaume 86:9-10
+otquote	REV	21:3	OTQ	Leviticus 26:11-12; Ezekiel 37:27	Levítico 26:11-12; Ezequiel 37:27		Lévitique 26:11-12; Ézéchiel 37:27

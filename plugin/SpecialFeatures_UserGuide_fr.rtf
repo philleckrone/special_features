@@ -1,0 +1,54 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1
+\pard\sa200\sl276\slmult1\f0\fs28\b MISES EN FORME SP\'c9CIALES 1.7 (MODULE COMPL\'c9MENTAIRE DE PARATEXT)\b0\fs22\par
+\par
+\b BUT\b0\par
+Mises en forme sp\'e9ciales est un module compl\'e9mentaire (plugin) de Paratext. Il signale les endroits o\'f9 les Bibles publi\'e9es utilisent souvent une mise en forme sp\'e9ciale : g\'e9n\'e9alogies, listes, tableaux, lettres et d\'e9crets, pri\'e8res, prose sp\'e9ciale, inscriptions, acrostiches, lignes centr\'e9es, noms de ceux qui parlent, grandes et petites divisions, notes textuelles et citations de l'Ancien Testament dans le Nouveau. Pour chaque endroit, il indique si le projet le met d\'e9j\'e0 en forme et sugg\'e8re des marqueurs USFM. Il ne modifie jamais le texte.\par
+Les endroits viennent de l'\'e9tude \'ab Special Layout Features found in Old and New Testaments \'bb (ao\'fbt 2002, r\'e9vis\'e9e en avril 2004), qui a compar\'e9 sept publications : NIV, NVI, NLT, GNB, TEV, BFC (La Bible en fran\'e7ais courant) et CEV. Les entr\'e9es du m\'eame type dont les versets se chevauchent ou se touchent sont affich\'e9es comme un seul endroit (par exemple, la g\'e9n\'e9alogie de Gen\'e8se 10 de la NIV, de la NVI et de la NLT est un seul endroit, GEN 10:2-31).\par
+Une deuxi\'e8me liste donne les endroits o\'f9 le Nouveau Testament cite l'Ancien (MAT 1:23, \'c9sa\'efe 7:14, et environ 260 autres). Leur description est la r\'e9f\'e9rence de l'Ancien Testament, et ils ont leur propre case \'e0 cocher, \'ab Citations de l'AT \'bb, \'e0 c\'f4t\'e9 des publications.\par
+\par
+\b INSTALLATION\b0\par
+1. T\'e9l\'e9chargez Install_Phils_tools.exe depuis le dossier Paratext_Plugins. Si le navigateur vous avertit au sujet du fichier, choisissez de le conserver.\par
+2. Fermez Paratext.\par
+3. Double-cliquez sur Install_Phils_tools.exe. Si Windows indique qu'il a prot\'e9g\'e9 votre ordinateur, cliquez sur \'ab Informations compl\'e9mentaires \'bb, puis sur \'ab Ex\'e9cuter quand m\'eame \'bb (l'installateur n'est pas encore sign\'e9).\par
+4. Cochez Mises en forme sp\'e9ciales et cliquez sur \'ab Installer / mettre \'e0 jour \'bb. Il s'installe dans chaque Paratext 9 de l'ordinateur. Si Windows demande l'autorisation, cliquez sur Oui. La m\'eame fen\'eatre met le module \'e0 jour plus tard (son statut indique alors \'ab Mise \'e0 jour disponible \'bb) ou le retire (\'ab Supprimer les coch\'e9s \'bb), et son bouton \'ab Guide de l'utilisateur \'bb ouvre ce guide.\par
+\par
+\b LA LISTE : OUTILS > MISES EN FORME SP\'c9CIALES...\b0\par
+1. Ouvrez le projet dans une fen\'eatre de texte et choisissez Outils > Mises en forme sp\'e9ciales...\par
+2. La fen\'eatre affiche une ligne par endroit : son \'e9tat dans le projet, la r\'e9f\'e9rence, les marqueurs trouv\'e9s, les marqueurs sugg\'e9r\'e9s, la description tir\'e9e de l'\'e9tude, le type et les publications qui le mettent en forme sp\'e9cialement. Placez la souris sur une ligne pour tout voir, y compris chaque entr\'e9e de l'\'e9tude qui forme l'endroit.\par
+3. Double-cliquez sur une ligne, ou s\'e9lectionnez-la et cliquez sur \'ab Aller dans Paratext \'bb, pour aller \'e0 son premier verset. La fen\'eatre reste ouverte \'e0 c\'f4t\'e9 de Paratext.\par
+4. Filtres : les livres (tous, Ancien Testament, Nouveau Testament ou un livre), les types d'endroit (\'ab Types : 18 sur 18... \'bb ouvre une liste o\'f9 vous d\'e9cochez les types que vous ne voulez jamais voir, par exemple Petites divisions), \'ab Masquer les endroits qui ont d\'e9j\'e0 une mise en forme sp\'e9ciale \'bb et les publications. Un endroit est affich\'e9 quand au moins une de ses publications est coch\'e9e. D\'e9cochez tout sauf la BFC, par exemple, pour ne voir que ce que la BFC met en forme sp\'e9cialement. D\'e9cochez \'ab Citations de l'AT \'bb pour masquer les citations.\par
+5. Pour masquer les endroits sur lesquels votre \'e9quipe a d\'e9j\'e0 d\'e9cid\'e9, s\'e9lectionnez-les (Ctrl+clic ou Maj+clic pour plusieurs) et cliquez sur \'ab Masquer la s\'e9lection \'bb ou appuyez sur Suppr. Cochez \'ab Afficher les endroits masqu\'e9s (n) \'bb pour les revoir en gris italique ; s\'e9lectionnez-les et cliquez sur \'ab R\'e9afficher la s\'e9lection \'bb pour les r\'e9tablir. Les endroits masqu\'e9s sont gard\'e9s pour ce projet seulement.\par
+6. Apr\'e8s avoir modifi\'e9 le texte, cliquez sur \'ab Relire le texte \'bb (la liste se met aussi \'e0 jour quand Paratext enregistre un chapitre).\par
+Les filtres et les endroits masqu\'e9s sont enregistr\'e9s pour chaque projet dans son dossier local\\SpecialFeatures, qu'Envoyer/Recevoir ne partage pas.\par
+\par
+\b \'c9TAT\b0\par
+\tab Paragraphes simples (jaune) : les versets ont du texte, mais aucun des marqueurs habituellement utilis\'e9s pour ce type d'endroit n'y est encore employ\'e9.\par
+\tab A une mise en forme sp\'e9ciale (vert) : au moins un de ces marqueurs est utilis\'e9 dans les versets, par exemple \\li1 dans une g\'e9n\'e9alogie, \\pc ou \\sc dans une inscription, \\qa dans un psaume acrostiche.\par
+\tab Guillemets seulement (bleu) : une inscription ou une citation de l'Ancien Testament qui n'a aucun de ces marqueurs, mais dont les mots sont entre guillemets (\u8220? \u8221? \'ab \'bb \u8222? \u8220? \u8249? \u8250? ou "). \'ab Marqueurs trouv\'e9s \'bb affiche alors les premiers mots entre guillemets, et (+2) quand il y en a d'autres. Si seul un guillemet d'une citation commenc\'e9e avant l'endroit s'y trouve, seul ce guillemet est affich\'e9. Ces lignes restent visibles quand \'ab Masquer les endroits qui ont d\'e9j\'e0 une mise en forme sp\'e9ciale \'bb est coch\'e9.\par
+\tab Pas encore r\'e9dig\'e9 (gris) : le livre ou le chapitre manque, ou les versets n'ont pas de texte.\par
+\'ab Marqueurs trouv\'e9s \'bb affiche d'abord les marqueurs de ce type, puis (comme \'ab autres \'bb) les autres marqueurs utilis\'e9s dans les versets. Un marqueur juste avant un verset (un intertitre, \\li1 avant \\v 2, \\ms avant \\c) compte pour ce verset.\par
+\par
+\b AJOUTER VOS PROPRES ENDROITS\b0\par
+Un pays, une r\'e9gion ou une \'e9quipe peut mettre en forme d'autres passages de fa\'e7on sp\'e9ciale. Cliquez sur \'ab Endroits ajout\'e9s... \'bb pour en tenir la liste :\par
+\tab Ajouter... : choisissez le livre, tapez les r\'e9f\'e9rences (3 = le chapitre entier, 3-4, 3:1-12, 1:3-2:4, ou plusieurs s\'e9par\'e9es par des virgules et des points-virgules, comme 10:2-18,22-29; 11:10-26), choisissez le type (ses marqueurs d\'e9terminent l'\'e9tat et constituent la suggestion), tapez une description et un nom de source (par exemple \'ab Cameroun \'bb). Les r\'e9f\'e9rences sont dans la versification anglaise, sauf si vous choisissez Originale.\par
+\tab Modifier... (ou double-clic) change un endroit ; Supprimer l'enl\'e8ve.\par
+\tab Exporter... enregistre la liste dans un fichier \'e0 envoyer \'e0 d'autres ; Importer... ajoute les endroits d'un tel fichier (ceux qui sont d\'e9j\'e0 dans la liste sont ignor\'e9s).\par
+Les endroits ajout\'e9s sont affich\'e9s avec ceux de l'\'e9tude dans tous les projets de cet ordinateur (ils sont conserv\'e9s dans %APPDATA%\\ParatextSpecialFeatures\\added.tsv). Chaque nom de source a sa propre case \'e0 cocher \'e0 c\'f4t\'e9 de NIV, NVI et des autres, pour que vous puissiez n'afficher que vos propres endroits.\par
+\par
+\b MARQUEURS SUGG\'c9R\'c9S\b0\par
+\tab G\'e9n\'e9alogie, liste : \\li1 \\li2 \\li3 (\\lh avant, \\lf apr\'e8s ; \\lim, \\lik, \\liv).\par
+\tab Tableau : \\tr \\th1 \\th2 \\tc1 \\tcr2.\par
+\tab Lettre, d\'e9cret ou message : \\pmo \\pm \\pmc \\pmr.\par
+\tab Pri\'e8re, prose sp\'e9ciale, jours de la cr\'e9ation, dix commandements : \\pi1 \\mi \\li1 \\q1 \\pm.\par
+\tab Inscription : \\pc, \\qc ou \\sc...\\sc*. Texte centr\'e9 : \\qc \\pc \\qd.\par
+\tab Lettres h\'e9bra\'efques (acrostiche) : \\qa. Locuteurs nomm\'e9s : \\sp. Refrain : \\qr, \\q2 ou \\it...\\it*.\par
+\tab Grandes divisions : \\ms1 \\mr. Petites divisions et paroles num\'e9rot\'e9es : \\s2, \\b, \\li1. Note textuelle : un intertitre (\\s1, \\r), \\b ou une note de bas de page.\par
+\tab Citation de l'Ancien Testament : \\qt...\\qt* autour des mots cit\'e9s, ou des lignes de po\'e9sie (\\q1 \\q2) pour une citation po\'e9tique. \\qt, \\q, \\qm ou \\pi \'e0 cet endroit comptent comme une mise en forme.\par
+Ce ne sont que des suggestions : choisissez ce qui convient \'e0 la feuille de style et \'e0 la mise en page du projet.\par
+\par
+\b REMARQUES\b0\par
+\tab Les r\'e9f\'e9rences sont \'e9crites dans la versification anglaise (quelques-unes de la BFC dans l'originale). Le module les convertit dans la versification du projet ; par exemple, Psaume 41:13 se trouve en 41:14 dans un projet en versification originale.\par
+\tab Une partie de verset dans l'\'e9tude (Gn 46:8b) compte comme le verset entier.\par
+\tab Les particularit\'e9s qui ne concernent que la page imprim\'e9e (la BFC imprime les Psaumes sur une colonne et le r\'e9cit de Job sur deux) ne sont pas list\'e9es.\par
+}

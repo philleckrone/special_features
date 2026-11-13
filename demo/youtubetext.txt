@@ -1,0 +1,22 @@
+﻿Special Features is a Paratext tool that points out the places where published Bibles often use special formatting: genealogies, lists, letters, prayers, inscriptions, acrostics, Old Testament quotations and more. The places come from the paper "Special Layout Features found in Old and New Testaments", which compared seven Bibles. For each place it shows the markers usually used, the markers your project already uses there, and whether the place is still plain paragraphs. You can add your own places, and share them with others. The tool only reads the project; it changes nothing.
+
+Download Install_Phils_tools.exe from the Paratext Plugins folder, and tick Special Features in it:
+https://short.do/HgUb7T
+
+0:22 How do I open Special Features?
+0:30 Where do the places come from?
+0:48 What do the colours mean?
+1:05 Which markers should I use?
+1:21 How do I see one kind of place?
+1:40 How do I see only what is left to do?
+1:57 What are the publication boxes for?
+2:13 How do I go to a place in Paratext?
+2:21 Can I add my own places?
+2:37 How do I add a place?
+2:57 How do I install the tool?
+
+Created with Claude AI.
+Narration: AI-generated voice (Microsoft Azure AI Speech, voice "Jenny").
+Music from Free To Use
+Source: https://freetouse.com/music
+Coconut Kind of Love by Aetheric

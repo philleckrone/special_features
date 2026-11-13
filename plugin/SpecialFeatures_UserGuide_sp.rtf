@@ -1,0 +1,54 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1
+\pard\sa200\sl276\slmult1\f0\fs28\b RASGOS ESPECIALES 1.7 (COMPLEMENTO DE PARATEXT)\b0\fs22\par
+\par
+\b PROP\'d3SITO\b0\par
+Rasgos especiales es un complemento de Paratext. Indica los lugares donde las Biblias publicadas suelen usar un formato especial: genealog\'edas, listas, tablas, cartas y decretos, oraciones, prosa especial, inscripciones, acr\'f3sticos, l\'edneas centradas, nombres de quien habla, divisiones principales y menores, notas textuales y citas del Antiguo Testamento en el Nuevo. Para cada lugar muestra si el proyecto ya le da formato y sugiere marcadores USFM. Nunca cambia el texto.\par
+Los lugares vienen del estudio "Special Layout Features found in Old and New Testaments" (agosto de 2002, revisado en abril de 2004), que compar\'f3 siete publicaciones: NIV, NVI, NLT, GNB, TEV, BFC (La Bible en fran\'e7ais courant) y CEV. Las entradas del mismo tipo cuyos vers\'edculos se solapan o se tocan se muestran como un solo lugar (por ejemplo, la genealog\'eda de G\'e9nesis 10 de la NIV, la NVI y la NLT es un solo lugar, GEN 10:2-31).\par
+Una segunda lista da los lugares donde el Nuevo Testamento cita el Antiguo (MAT 1:23, Isa\'edas 7:14, y unos 260 m\'e1s). Su descripci\'f3n es la referencia del Antiguo Testamento, y tiene su propia casilla, "Citas del AT", junto a las publicaciones.\par
+\par
+\b INSTALACI\'d3N\b0\par
+1. Descargue Install_Phils_tools.exe de la carpeta Paratext_Plugins. Si el navegador le advierte sobre el archivo, elija conservarlo.\par
+2. Cierre Paratext.\par
+3. Haga doble clic en Install_Phils_tools.exe. Si Windows dice que protegi\'f3 su PC, haga clic en "M\'e1s informaci\'f3n" y luego en "Ejecutar de todas formas" (el instalador todav\'eda no est\'e1 firmado).\par
+4. Marque Rasgos especiales y haga clic en "Instalar / actualizar los marcados". Se instala en cada Paratext 9 del equipo. Si Windows le pide permiso, haga clic en S\'ed. La misma ventana actualiza el complemento m\'e1s adelante (su estado dice entonces "Actualizaci\'f3n disponible") o lo quita ("Quitar los marcados"), y su bot\'f3n "Gu\'eda del usuario" abre esta gu\'eda.\par
+\par
+\b LA LISTA: HERRAMIENTAS > RASGOS ESPECIALES...\b0\par
+1. Abra el proyecto en una ventana de Escritura y elija Herramientas > Rasgos especiales...\par
+2. La ventana muestra una fila por lugar: su estado en el proyecto, la referencia, los marcadores encontrados, los marcadores sugeridos, la descripci\'f3n del estudio, el tipo y las publicaciones que le dan formato especial. Ponga el rat\'f3n sobre una fila para verlo todo, incluso cada entrada del estudio que forma el lugar.\par
+3. Haga doble clic en una fila, o selecci\'f3nela y haga clic en "Ir en Paratext", para ir a su primer vers\'edculo. La ventana queda abierta junto a Paratext.\par
+4. Filtros: los libros (todos, Antiguo Testamento, Nuevo Testamento o un libro), los tipos de lugar ("Tipos: 18 de 18..." abre una lista donde desmarca los tipos que nunca quiere ver, por ejemplo Divisiones menores), "Ocultar los lugares que ya tienen formato especial" y las publicaciones. Se muestra un lugar cuando al menos una de sus publicaciones est\'e1 marcada. Desmarque todas menos la NVI, por ejemplo, para ver solo lo que la NVI formatea de manera especial. Desmarque "Citas del AT" para ocultar las citas.\par
+5. Para ocultar los lugares sobre los que su equipo ya decidi\'f3, selecci\'f3nelos (Ctrl+clic o May\'fas+clic para varios) y haga clic en "Ocultar los seleccionados" o pulse Supr. Marque "Mostrar los lugares ocultos (n)" para verlos otra vez en gris cursiva; selecci\'f3nelos y haga clic en "Volver a mostrar los seleccionados" para recuperarlos. Los lugares ocultos se guardan solo para este proyecto.\par
+6. Despu\'e9s de editar el texto, haga clic en "Volver a leer el texto" (la lista tambi\'e9n se actualiza cuando Paratext guarda un cap\'edtulo).\par
+Los filtros y los lugares ocultos se guardan para cada proyecto en su carpeta local\\SpecialFeatures, que Enviar/Recibir no comparte.\par
+\par
+\b ESTADO\b0\par
+\tab P\'e1rrafos sencillos (amarillo): los vers\'edculos tienen texto, pero todav\'eda no se usa ninguno de los marcadores con que se suele dar formato a este tipo de lugar.\par
+\tab Tiene formato especial (verde): se usa al menos uno de esos marcadores en los vers\'edculos, por ejemplo \\li1 en una genealog\'eda, \\pc o \\sc en una inscripci\'f3n, \\qa en un salmo acr\'f3stico.\par
+\tab Solo comillas (azul): una inscripci\'f3n o cita del Antiguo Testamento que no tiene ninguno de esos marcadores, pero cuyas palabras est\'e1n entre comillas (\u8220? \u8221? \'ab \'bb \u8222? \u8220? \u8249? \u8250? o "). "Marcadores encontrados" muestra entonces las primeras palabras entre comillas, y (+2) cuando hay m\'e1s. Si solo hay una comilla de una cita que empez\'f3 antes del lugar, se muestra solo esa comilla. Estas filas siguen visibles cuando "Ocultar los lugares que ya tienen formato especial" est\'e1 marcado.\par
+\tab Sin borrador (gris): falta el libro o el cap\'edtulo, o los vers\'edculos no tienen texto.\par
+"Marcadores encontrados" muestra primero los marcadores de ese tipo y luego (como "otros") los dem\'e1s marcadores usados en los vers\'edculos. Un marcador justo antes de un vers\'edculo (un subt\'edtulo, \\li1 antes de \\v 2, \\ms antes de \\c) cuenta para ese vers\'edculo.\par
+\par
+\b A\'d1ADIR SUS PROPIOS LUGARES\b0\par
+Un pa\'eds, una regi\'f3n o un equipo puede dar un formato especial a otros pasajes. Haga clic en "Lugares a\'f1adidos..." para llevar una lista de ellos:\par
+\tab A\'f1adir...: elija el libro, escriba las referencias (3 = el cap\'edtulo entero, 3-4, 3:1-12, 1:3-2:4, o varias separadas por comas y punto y coma, como 10:2-18,22-29; 11:10-26), elija el tipo (sus marcadores deciden el estado y son la sugerencia), escriba una descripci\'f3n y un nombre de origen (por ejemplo "Per\'fa"). Las referencias est\'e1n en la versificaci\'f3n inglesa, salvo que elija la original.\par
+\tab Modificar... (o doble clic) cambia un lugar; Eliminar lo quita.\par
+\tab Exportar... guarda la lista en un archivo para enviarlo a otros; Importar... a\'f1ade los lugares de un archivo as\'ed (los que ya est\'e1n en la lista se omiten).\par
+Los lugares a\'f1adidos aparecen junto con los del estudio en todos los proyectos de este equipo (se guardan en %APPDATA%\\ParatextSpecialFeatures\\added.tsv). Cada nombre de origen tiene su propia casilla junto a NIV, NVI y las dem\'e1s, para poder mostrar solo sus propios lugares.\par
+\par
+\b MARCADORES SUGERIDOS\b0\par
+\tab Genealog\'eda, lista: \\li1 \\li2 \\li3 (\\lh antes, \\lf despu\'e9s; \\lim, \\lik, \\liv).\par
+\tab Tabla: \\tr \\th1 \\th2 \\tc1 \\tcr2.\par
+\tab Carta, decreto o mensaje: \\pmo \\pm \\pmc \\pmr.\par
+\tab Oraci\'f3n, prosa especial, d\'edas de la creaci\'f3n, Diez Mandamientos: \\pi1 \\mi \\li1 \\q1 \\pm.\par
+\tab Inscripci\'f3n: \\pc, \\qc o \\sc...\\sc*. Texto centrado: \\qc \\pc \\qd.\par
+\tab Letras hebreas (acr\'f3stico): \\qa. Se nombra a quien habla: \\sp. Estribillo: \\qr, \\q2 o \\it...\\it*.\par
+\tab Divisiones principales: \\ms1 \\mr. Divisiones menores y dichos numerados: \\s2, \\b, \\li1. Nota textual: un subt\'edtulo (\\s1, \\r), \\b o una nota al pie.\par
+\tab Cita del Antiguo Testamento: \\qt...\\qt* alrededor de las palabras citadas, o l\'edneas de poes\'eda (\\q1 \\q2) para una cita po\'e9tica. \\qt, \\q, \\qm o \\pi all\'ed cuentan como formato.\par
+Son solo sugerencias: elija lo que corresponda a la hoja de estilos y a la diagramaci\'f3n del proyecto.\par
+\par
+\b NOTAS\b0\par
+\tab Las referencias est\'e1n escritas en la versificaci\'f3n inglesa (algunas de la BFC en la original). El complemento las convierte a la versificaci\'f3n del proyecto; por ejemplo, Salmo 41:13 se encuentra en 41:14 en un proyecto con versificaci\'f3n original.\par
+\tab Una parte de vers\'edculo en el estudio (G\'e9n 46:8b) cuenta como el vers\'edculo entero.\par
+\tab No se incluyen los rasgos que solo afectan a la p\'e1gina impresa (la BFC imprime los Salmos a una columna y la narraci\'f3n de Job a dos).\par
+}

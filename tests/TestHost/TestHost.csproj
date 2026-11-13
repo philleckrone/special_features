@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props"
+          Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <!-- Test host only: never deployed. Builds the plugin's Paratext-free sources into an exe. -->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SpecialFeaturesTests</RootNamespace>
+    <AssemblyName>SpecialFeaturesTestHost</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <LangVersion>5</LangVersion>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <!-- Turns on test-only code in the linked plugin sources (the SF_ADDED path override). -->
+    <DefineConstants>$(DefineConstants);SF_TESTHOST</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\SpecialFeaturesPlugin\AddedPlaces.cs">
+      <Link>AddedPlaces.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\AddedPlacesForm.cs">
+      <Link>AddedPlacesForm.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\Categories.cs">
+      <Link>Categories.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\Feature.cs">
+      <Link>Feature.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\FeatureCatalog.cs">
+      <Link>FeatureCatalog.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\FeatureScanner.cs">
+      <Link>FeatureScanner.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\FeatureSession.cs">
+      <Link>FeatureSession.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\IBookSource.cs">
+      <Link>IBookSource.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\KindChooserForm.cs">
+      <Link>KindChooserForm.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\ScanOptions.cs">
+      <Link>ScanOptions.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\SpecialFeaturesForm.cs">
+      <Link>SpecialFeaturesForm.cs</Link>
+    </Compile>
+    <Compile Include="..\..\SpecialFeaturesPlugin\Strings.cs">
+      <Link>Strings.cs</Link>
+    </Compile>
+    <Compile Include="FolderBookSource.cs" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\SpecialFeaturesPlugin\Resources\features.tsv">
+      <LogicalName>SpecialFeatures.features.tsv</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

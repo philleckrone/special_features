@@ -1,0 +1,12 @@
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\SpecialFeaturesTestHost.exe
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\SpecialFeaturesTestHost.pdb
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\mscorlib.dll
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\es\mscorlib.resources.dll
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\normidna.nlp
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\normnfc.nlp
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\normnfd.nlp
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\normnfkc.nlp
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\bin\Release\normnfkd.nlp
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\obj\Release\TestHost.csprojResolveAssemblyReference.cache
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\obj\Release\SpecialFeaturesTestHost.exe
+C:\ClaudeCode Projects\Special_Features\tests\TestHost\obj\Release\SpecialFeaturesTestHost.pdb

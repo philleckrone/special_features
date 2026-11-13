@@ -1,0 +1,79 @@
+{
+  "cues": "{1} before a phrase shows box 1 of the step from there on, {0,2} boxes 0 and 2, {} none; the pointer goes on the first box named. Cues are not spoken or shown. 'q' is the step's question in the YouTube timecodes (youtubetext.txt).",
+  "youtube": {
+    "en": {
+      "about": "Special Features is a Paratext tool that points out the places where published Bibles often use special formatting: genealogies, lists, letters, prayers, inscriptions, acrostics, Old Testament quotations and more. The places come from the paper \"Special Layout Features found in Old and New Testaments\", which compared seven Bibles. For each place it shows the markers usually used, the markers your project already uses there, and whether the place is still plain paragraphs. You can add your own places, and share them with others. The tool only reads the project; it changes nothing.",
+      "download": "Download Install_Phils_tools.exe from the Paratext Plugins folder, and tick Special Features in it:",
+      "link": "https://short.do/HgUb7T",
+      "credits": [
+        "Created with Claude AI.",
+        "Narration: AI-generated voice (Microsoft Azure AI Speech, voice \"Jenny\").",
+        "Music from Free To Use",
+        "Source: https://freetouse.com/music",
+        "Coconut Kind of Love by Aetheric"
+      ]
+    }
+  },
+  "steps": [
+    {
+      "id": "title",
+      "en": { "title": "Special Features", "sub": "A Paratext tool: find the places that published Bibles format specially", "text": "Special Features is a Paratext tool. It points out the places where published Bibles often use special formatting, such as genealogies, lists, letters and inscriptions, and shows how your project formats them." }
+    },
+    {
+      "id": "s00_menu",
+      "en": { "title": "Open it from the Tools menu", "q": "How do I open Special Features?", "text": "In Paratext, open the project. Then choose {0}Tools, then {1}Special Features." }
+    },
+    {
+      "id": "s01_open",
+      "en": { "title": "Places that are often formatted specially", "q": "Where do the places come from?", "text": "{0}The places come from a paper that compared seven Bibles, plus the places where the New Testament quotes the Old Testament. {1}Each row is one place. {2}This line counts them. The tool only reads the project; it changes nothing." }
+    },
+    {
+      "id": "s02_status",
+      "en": { "title": "Is it formatted yet?", "q": "What do the colours mean?", "text": "{0}The Status column shows how the project has the place now. Yellow means plain paragraphs: none of the usual markers is used there yet. Green means it already has special formatting. Blue means it only has quotation marks." }
+    },
+    {
+      "id": "s03_markers",
+      "en": { "title": "Suggested and found", "q": "Which markers should I use?", "text": "{0}Here are two genealogies in Genesis. {1}Suggested markers are the ones such places are usually formatted with, here list markers. {2}Markers found shows what the project already uses in those verses." }
+    },
+    {
+      "id": "s04_kind",
+      "en": { "title": "One kind of place at a time", "q": "How do I see one kind of place?", "text": "{0}The Kind list shows one kind of place at a time, here the genealogies." }
+    },
+    {
+      "id": "s04b_counts",
+      "en": { "title": "Only that kind is listed", "text": "{0}Now only the genealogies are listed. {1}The Books list does the same for the Old or New Testament, or one book. {2}The counts follow the filters." }
+    },
+    {
+      "id": "s05_hide",
+      "en": { "title": "Hide what is done", "q": "How do I see only what is left to do?", "text": "{0}Tick Hide places that already have special formatting, {1}and only the places still to look at are left. {2}Here, three genealogies are still plain paragraphs. Places with only quotation marks are not hidden, so you can check them." }
+    },
+    {
+      "id": "s06_pubs",
+      "en": { "title": "Which Bibles format it specially", "q": "What are the publication boxes for?", "text": "{0}Each place lists the Bibles that format it specially. A place is shown when at least one of its Bibles is ticked. {1}Untick OT quotations to hide the Old Testament quotations. {2}The counts change at once." }
+    },
+    {
+      "id": "s07_goto",
+      "en": { "title": "Go to the place", "q": "How do I go to a place in Paratext?", "text": "{0}Click Go to in Paratext, {1}or double-click a row, to see the place in your project's text." }
+    },
+    {
+      "id": "s08_added",
+      "en": { "title": "Add your own places", "q": "Can I add my own places?", "text": "{0}Added places are your own, listed with the paper's places in every project on this computer. {1}Click Add to add one. {2}Export saves your list to a file, and Import adds the places of a file someone gave you." }
+    },
+    {
+      "id": "s09_place",
+      "en": { "title": "A place of your own", "q": "How do I add a place?", "text": "Choose the book and type the references. {0}The examples show how to write them. {1}Choose the kind of place, which gives its suggested markers. {2}And give it a source, for example the country or the Bible that formats it this way. Each source gets its own box to tick." }
+    },
+    {
+      "id": "sec_install",
+      "en": { "title": "Installing the tool", "q": "How do I install the tool?", "text": "Installing the tool." }
+    },
+    {
+      "id": "i5_ready",
+      "en": { "title": "Ready to use", "text": "Start Paratext again. {1,0}Special Features is now on the Tools menu." }
+    },
+    {
+      "id": "end",
+      "en": { "title": "Special Features", "sub": "Places Bibles often format specially  ·  Suggested and found markers  ·  Add and share your own places", "text": "Special Features shows the places Bibles often format specially, with the markers usually used and the ones your project already uses. Add your own places, and share them with others." }
+    }
+  ]
+}

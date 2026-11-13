@@ -1,0 +1,5 @@
+C:\ClaudeCode Projects\Special_Features\SpecialFeaturesPlugin\bin\Release\SpecialFeaturesPlugin.dll
+C:\ClaudeCode Projects\Special_Features\SpecialFeaturesPlugin\bin\Release\SpecialFeaturesPlugin.pdb
+C:\ClaudeCode Projects\Special_Features\SpecialFeaturesPlugin\obj\Release\SpecialFeaturesPlugin.csprojResolveAssemblyReference.cache
+C:\ClaudeCode Projects\Special_Features\SpecialFeaturesPlugin\obj\Release\SpecialFeaturesPlugin.dll
+C:\ClaudeCode Projects\Special_Features\SpecialFeaturesPlugin\obj\Release\SpecialFeaturesPlugin.pdb
